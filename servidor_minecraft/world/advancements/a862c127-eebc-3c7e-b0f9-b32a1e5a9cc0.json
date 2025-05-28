@@ -3081,6 +3081,7 @@
       "minecraft:cave_spider": "2025-05-22 05:42:35 +0000",
       "minecraft:enderman": "2025-05-25 15:15:27 +0000",
       "minecraft:vex": "2025-05-23 20:51:59 +0000",
+      "savage_and_ravage:iceologer": "2025-05-28 01:49:17 +0000",
       "savage_and_ravage:skeleton_villager": "2025-05-23 08:32:46 +0000",
       "minecraft:skeleton": "2025-05-21 03:43:37 +0000",
       "minecraft:ravager": "2025-05-25 02:29:17 +0000",
@@ -16562,6 +16563,79 @@
       "hearty_dish": "2025-05-26 07:57:39 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-28 01:51:21 +0000",
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-28 01:51:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
