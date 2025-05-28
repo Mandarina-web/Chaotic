@@ -1050,3 +1050,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28May2025 20:58:04.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
 [28May2025 20:58:04.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
 [28May2025 20:58:04.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[28May2025 21:10:39.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:51977] logged in with entity id 1203 at (123.83236223455928, 107.11398369728828, 213.69999998807907)
+[28May2025 21:10:39.112] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[28May2025 21:10:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[28May2025 21:10:39.307] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[28May2025 21:10:39.309] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[28May2025 21:10:39.341] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[28May2025 21:10:41.489] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[28May2025 21:10:41.491] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[28May2025 21:10:52.021] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[28May2025 21:10:53.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[28May2025 21:10:54.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[28May2025 21:10:54.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[28May2025 21:11:00.066] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[28May2025 21:11:01.216] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cooking in 397.2 μs. 0/143 recipes are parallelized.
