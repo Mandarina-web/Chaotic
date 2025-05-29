@@ -15829,3 +15829,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29May2025 00:57:41.033] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of elMoillinoYT to connected: {disabled=false, disconnected=false, uuid=d22ddbf4-0674-3a8e-993a-4e6c21c86d5c, name=elMoillinoYT, group=null}
 [29May2025 00:57:41.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
 [29May2025 00:57:41.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of elMoillinoYT: {disabled=false, disconnected=false, uuid=d22ddbf4-0674-3a8e-993a-4e6c21c86d5c, name=elMoillinoYT, group=null}
+[29May2025 00:58:29.217] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[29May2025 00:58:29.217] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[29May2025 00:58:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29May2025 00:58:29.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29May2025 00:58:29.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Server closed
+[29May2025 00:58:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[29May2025 00:58:29.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elMoillinoYT lost connection: Server closed
+[29May2025 00:58:29.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT left the game
+[29May2025 00:58:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29May2025 00:58:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[29May2025 00:58:42.406] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:42.423] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:42.426] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:42.426] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[29May2025 00:58:45.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[29May2025 00:58:45.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[29May2025 00:58:45.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[29May2025 00:58:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29May2025 00:58:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29May2025 00:58:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29May2025 00:58:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29May2025 00:58:45.220] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[29May2025 00:58:45.220] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[29May2025 00:58:45.314] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[29May2025 00:58:45.314] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[29May2025 00:58:45.314] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[29May2025 00:58:45.314] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[29May2025 00:58:45.319] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29May2025 00:58:45.321] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Chaotic/servidor_minecraft/config/refurbished_furniture.server.toml
+[29May2025 00:58:45.325] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29May2025 00:58:45.325] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Chaotic/servidor_minecraft/config/backpacked-common.toml
+[29May2025 00:58:45.325] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[29May2025 00:58:45.325] [Server thread/DEBUG] [Framework/]: Stopped watching config: ./world/serverconfig/backpacked-server.toml
+[29May2025 00:58:45.325] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[29May2025 00:58:45.326] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Chaotic/servidor_minecraft/config/goblintraders-entities.toml
+[29May2025 00:58:45.326] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29May2025 00:58:45.326] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29May2025 00:58:45.326] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[29May2025 00:58:45.327] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29May2025 00:58:45.330] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

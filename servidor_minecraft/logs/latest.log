@@ -1147,3 +1147,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29May2025 00:57:40.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
 [29May2025 00:57:41.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
 [29May2025 00:57:41.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
+[29May2025 00:58:29.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29May2025 00:58:29.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29May2025 00:58:29.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Server closed
+[29May2025 00:58:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[29May2025 00:58:29.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elMoillinoYT lost connection: Server closed
+[29May2025 00:58:29.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT left the game
+[29May2025 00:58:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29May2025 00:58:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[29May2025 00:58:42.406] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:42.423] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:42.426] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:42.426] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:58:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[29May2025 00:58:45.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[29May2025 00:58:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29May2025 00:58:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29May2025 00:58:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29May2025 00:58:45.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29May2025 00:58:45.319] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29May2025 00:58:45.325] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29May2025 00:58:45.325] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[29May2025 00:58:45.325] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[29May2025 00:58:45.326] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29May2025 00:58:45.326] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29May2025 00:58:45.330] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
