@@ -2092,9 +2092,11 @@
     "criteria": {
       "baked_potato": "2025-05-22 08:32:40 +0000",
       "beef": "2025-05-23 03:24:08 +0000",
+      "atmospheric:shimmering_passion_fruit": "2025-05-29 02:51:37 +0000",
       "suspicious_stew": "2025-05-23 20:54:01 +0000",
       "neapolitan:chocolate_spider_eye": "2025-05-26 07:17:21 +0000",
       "rabbit_stew": "2025-05-21 22:28:34 +0000",
+      "abnormals_delight:cooked_chicken_cuts": "2025-05-29 03:22:41 +0000",
       "melon_slice": "2025-05-21 03:09:22 +0000",
       "cooked_rabbit": "2025-05-23 02:19:47 +0000",
       "cooked_porkchop": "2025-05-22 05:51:14 +0000",
@@ -2102,12 +2104,14 @@
       "atmospheric:passion_fruit": "2025-05-22 01:21:14 +0000",
       "cooked_beef": "2025-05-22 05:43:21 +0000",
       "sullysmod:lanternfish": "2025-05-25 07:26:23 +0000",
+      "abnormals_delight:vegetable_noodles": "2025-05-29 02:15:34 +0000",
       "cooked_mutton": "2025-05-23 20:18:17 +0000",
       "abnormals_delight:cabbage": "2025-05-22 01:58:06 +0000",
       "pumpkin_pie": "2025-05-22 00:27:35 +0000",
       "neapolitan:white_strawberries": "2025-05-28 21:16:36 +0000",
       "golden_carrot": "2025-05-23 03:46:09 +0000",
       "incubation:fried_egg": "2025-05-23 03:05:32 +0000",
+      "caverns_and_chasms:bejeweled_apple": "2025-05-29 03:45:50 +0000",
       "sullysmod:piranha": "2025-05-24 04:37:42 +0000",
       "cookie": "2025-05-21 22:19:46 +0000",
       "poisonous_potato": "2025-05-25 14:15:23 +0000",
@@ -16772,87 +16776,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "supplementaries:adventure/globe": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
+      "unlock": "2025-05-29 01:23:44 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 01:53:34 +0000"
-    },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/basket": {
     "criteria": {
       "has_canvas": "2025-05-29 01:39:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cabbage_from_leaves": {
-    "criteria": {
-      "has_cabbage_leaf": "2025-05-29 01:46:25 +0000"
     },
     "done": true
   },
@@ -16880,12 +16812,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2025-05-29 01:50:17 +0000"
-    },
-    "done": true
-  },
   "brewinandchewin:recipes/decorations/item_coaster": {
     "criteria": {
       "has_canvas": "2025-05-29 01:39:07 +0000"
@@ -16904,30 +16830,6 @@
     },
     "done": true
   },
-  "supplementaries:adventure/globe": {
-    "criteria": {
-      "unlock": "2025-05-29 01:23:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-29 01:47:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/cake": {
-    "criteria": {
-      "has_item": "2025-05-29 01:50:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-29 01:47:21 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
     "criteria": {
       "has_canvas": "2025-05-29 01:39:07 +0000"
@@ -16940,21 +16842,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-05-29 01:47:21 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/half_tatami_mat": {
     "criteria": {
       "has_canvas": "2025-05-29 01:39:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-05-29 01:50:17 +0000"
     },
     "done": true
   },
@@ -16964,15 +16854,423 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-05-29 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-05-29 01:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-29 01:47:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-29 01:47:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-05-29 01:47:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-05-29 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-05-29 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-05-29 01:50:17 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/pasta_with_veggieballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-29 01:50:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_canvas": "2025-05-29 01:39:07 +0000"
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+    },
+    "done": false
+  },
+  "sullysmod:recipes/building_blocks/stonecutting/jade_bricks_from_jade_block_stonecutting": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_upgrade_smithing_template": {
+    "criteria": {
+      "has_jade_upgrade_smithing_template": "2025-05-29 02:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-29 02:04:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-29 02:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_birch": {
+    "criteria": {
+      "has_item": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-29 03:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:46:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2025-05-29 02:15:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_bricks": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-29 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/stonecutting/jade_pillar_from_jade_block_stonecutting": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:husbandry/kill_mob_with_passion_fruit": {
+    "criteria": {
+      "kill_mob_with_passion_fruit": "2025-05-29 02:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/birch_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:46:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-05-29 03:59:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/birch_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_pillar": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-29 02:15:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2025-05-29 03:20:42 +0000"
     },
     "done": true
   },

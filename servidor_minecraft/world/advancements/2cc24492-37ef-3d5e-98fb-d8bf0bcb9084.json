@@ -3218,6 +3218,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2025-05-25 04:30:29 +0000",
+      "atmospheric:shimmering_passion_fruit": "2025-05-29 02:53:47 +0000",
       "suspicious_stew": "2025-05-23 21:50:41 +0000",
       "cooked_rabbit": "2025-05-25 04:30:58 +0000",
       "cooked_porkchop": "2025-05-25 04:34:32 +0000",
@@ -6284,6 +6285,7 @@
     "criteria": {
       "entered_stables": "2025-05-25 05:03:17 +0000",
       "entered_flying_dutchman": "2025-05-23 22:45:57 +0000",
+      "entered_deep_crypt": "2025-05-29 02:23:15 +0000",
       "entered_ruined_building": "2025-05-22 01:58:30 +0000"
     },
     "done": false
@@ -16048,75 +16050,531 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 01:42:35 +0000"
+      "log_spam_fixer": "2025-05-29 03:02:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/stonecutting/jade_bricks_from_jade_block_stonecutting": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/lime_seeds_from_lime": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_pie": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-29 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/deluxe_salad": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:husbandry/spit_passion_fruit": {
+    "criteria": {
+      "spit_passion_fruit": "2025-05-29 02:53:54 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/mint_limeade": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_deepslate_tiles_from_baking": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-29 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-05-29 02:23:15 +0000"
+    },
+    "done": false
+  },
+  "gnumus:worthy_traders_hat": {
+    "criteria": {
+      "worthy_traders_hat": "2025-05-29 02:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/limeade": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_bricks": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cupric_torch": {
+    "criteria": {
+      "has_copper": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/chiseled_deepslate_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/honey_lime_chicken": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/stonecutting/jade_pillar_from_jade_block_stonecutting": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-29 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/mediterranean_salmon": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/berry_limeade": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-29 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-29 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-29 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_ice_cream": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_cookie": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/pink_limeade": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/lime_crate": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/salmon_tartare": {
+    "criteria": {
+      "has_citrus": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/potato_fritters": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-05-29 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_pillar": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-29 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_deepslate_bricks_from_baking": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-29 02:31:06 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/cod_ceviche": {
+    "criteria": {
+      "has_citrus": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_cake": {
+    "criteria": {
+      "has_lime": "2025-05-29 02:42:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-05-29 02:41:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
