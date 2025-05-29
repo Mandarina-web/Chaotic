@@ -1069,3 +1069,81 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29May2025 00:45:59.484] [Worker-Main-6/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [29May2025 00:46:01.174] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/2029, l='ServerLevel[Entropy]', x=2180.50, y=-53.00, z=1543.50] as it would cause deadlock
 [29May2025 00:46:24.766] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/2372, l='ServerLevel[Entropy]', x=2218.50, y=-28.00, z=1471.50] as it would cause deadlock
+[29May2025 00:47:02.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ofuj_[/10.147.19.181:55737] logged in with entity id 2908 at (28.44747940970322, 75.0, 87.58110851612116)
+[29May2025 00:47:02.580] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ofuj_
+[29May2025 00:47:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ joined the game
+[29May2025 00:47:02.739] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ofuj_'
+[29May2025 00:47:02.739] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ofuj_'
+[29May2025 00:47:02.791] [Server thread/INFO] [Jade/]: Syncing config to ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5)
+[29May2025 00:47:04.700] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ofuj_ (18)
+[29May2025 00:47:04.700] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ofuj_
+[29May2025 00:47:04.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[29May2025 00:47:07.354] [Server thread/INFO] [do_a_barrel_roll/]: Client of ofuj_ accepted server config.
+[29May2025 00:47:07.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[29May2025 00:47:08.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[29May2025 00:47:08.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5) successfully connected to voice chat
+[29May2025 00:47:11.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ofuj_ lost connection: Disconnected
+[29May2025 00:47:11.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ left the game
+[29May2025 00:47:11.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ofuj_
+[29May2025 00:47:14.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> rezando
+[29May2025 00:47:17.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> tamare
+[29May2025 00:47:26.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6848ms or 136 ticks behind
+[29May2025 00:47:47.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[29May2025 00:47:53.779] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3421, l='ServerLevel[Entropy]', x=2050.50, y=-53.00, z=1870.50] as it would cause deadlock
+[29May2025 00:49:47.415] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 23.06 ms. 5990/6141 recipes are parallelized.
+[29May2025 00:49:49.168] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4485, l='ServerLevel[Entropy]', x=2064.50, y=-53.00, z=1880.50] as it would cause deadlock
+[29May2025 00:50:03.248] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:50:03.322] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:50:03.323] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:50:03.325] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:50:05.896] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4665, l='ServerLevel[Entropy]', x=2060.50, y=-53.00, z=1904.50] as it would cause deadlock
+[29May2025 00:50:05.938] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4667, l='ServerLevel[Entropy]', x=2068.50, y=-53.00, z=1904.50] as it would cause deadlock
+[29May2025 00:51:07.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ofuj_[/10.147.19.181:51793] logged in with entity id 4863 at (28.44747940970322, 75.0, 87.58110851612116)
+[29May2025 00:51:07.548] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ofuj_
+[29May2025 00:51:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ joined the game
+[29May2025 00:51:07.699] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ofuj_'
+[29May2025 00:51:07.700] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ofuj_'
+[29May2025 00:51:07.748] [Server thread/INFO] [Jade/]: Syncing config to ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5)
+[29May2025 00:51:08.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ofuj_ (18)
+[29May2025 00:51:08.225] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ofuj_
+[29May2025 00:51:12.162] [Server thread/INFO] [do_a_barrel_roll/]: Client of ofuj_ accepted server config.
+[29May2025 00:51:12.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[29May2025 00:51:13.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[29May2025 00:51:13.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5) successfully connected to voice chat
+[29May2025 00:51:15.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ofuj_ lost connection: Disconnected
+[29May2025 00:51:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ left the game
+[29May2025 00:51:15.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ofuj_
+[29May2025 00:53:39.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has reached the goal [Dark Creator]
+[29May2025 00:54:49.570] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:55:02.082] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/7509, l='ServerLevel[Entropy]', x=2064.50, y=-53.00, z=1955.50] as it would cause deadlock
+[29May2025 00:55:03.009] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:55:03.009] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:55:03.010] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:55:05.344] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[29May2025 00:55:06.972] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/7584, l='ServerLevel[Entropy]', x=2060.50, y=-28.00, z=1982.50] as it would cause deadlock
+[29May2025 00:55:07.170] [Worker-Main-13/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[29May2025 00:55:07.183] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/7590, l='ServerLevel[Entropy]', x=2068.50, y=-28.00, z=1982.50] as it would cause deadlock
+[29May2025 00:55:30.742] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/8018, l='ServerLevel[Entropy]', x=2002.50, y=-53.00, z=2046.50] as it would cause deadlock
+[29May2025 00:55:31.752] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/8028, l='ServerLevel[Entropy]', x=2099.50, y=-53.00, z=2033.50] as it would cause deadlock
+[29May2025 00:55:50.039] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.039] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.040] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.193] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.193] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.194] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.194] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.194] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.194] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:55:50.194] [Worker-Main-22/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[29May2025 00:57:30.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elMoillinoYT[/10.147.19.234:63327] logged in with entity id 9786 at (455.4464927882247, 74.17675927506424, 940.9087180133006)
+[29May2025 00:57:31.030] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player elMoillinoYT
+[29May2025 00:57:31.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT joined the game
+[29May2025 00:57:31.110] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'elMoillinoYT'
+[29May2025 00:57:31.110] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'elMoillinoYT'
+[29May2025 00:57:31.157] [Server thread/INFO] [Jade/]: Syncing config to elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c)
+[29May2025 00:57:32.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elMoillinoYT (18)
+[29May2025 00:57:32.627] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elMoillinoYT
+[29May2025 00:57:39.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
+[29May2025 00:57:40.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[29May2025 00:57:41.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[29May2025 00:57:41.033] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
