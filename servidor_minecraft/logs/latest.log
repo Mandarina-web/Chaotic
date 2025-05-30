@@ -1108,3 +1108,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 23:13:52.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
 [30May2025 23:13:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
 [30May2025 23:13:52.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[30May2025 23:15:53.293] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:15:53.296] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:15:53.298] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:16:29.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c95145e[id=<null>,name=UnGatoCalico,properties={},legacy=false] (/10.147.19.193:62817) lost connection: Disconnected
+[30May2025 23:17:00.567] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ef0f9bb[id=<null>,name=UnGatoCalico,properties={},legacy=false] (/10.147.19.193:62838) lost connection: Disconnected
+[30May2025 23:17:16.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:62911] logged in with entity id 1696 at (1.8386145630930657, 11.5, 23.99548725435609)
+[30May2025 23:17:16.892] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[30May2025 23:17:16.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[30May2025 23:17:16.943] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[30May2025 23:17:16.944] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[30May2025 23:17:16.962] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[30May2025 23:17:19.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Incendium]
+[30May2025 23:17:19.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [We Need to Go Deeper]
+[30May2025 23:17:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported elMoillinoYT to UnGatoCalico
+[30May2025 23:17:19.428] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[30May2025 23:17:19.433] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[30May2025 23:17:19.528] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:17:19.532] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:17:19.534] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:17:19.773] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
+[30May2025 23:17:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [A Terrible Fortress]
+[30May2025 23:17:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Hellish Paradise]
+[30May2025 23:17:20.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Strange Biomes]
+[30May2025 23:17:21.646] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[30May2025 23:17:22.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 23:17:23.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 23:17:23.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[30May2025 23:17:26.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elMoillinoYT lost connection: Disconnected
+[30May2025 23:17:26.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT left the game
+[30May2025 23:17:26.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elMoillinoYT
+[30May2025 23:17:47.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[30May2025 23:17:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[30May2025 23:17:47.719] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[30May2025 23:21:00.514] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fd1cade[id=<null>,name=UnGatoCalico,properties={},legacy=false] (/10.147.19.193:63398) lost connection: Disconnected
+[30May2025 23:21:09.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30May2025 23:21:09.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30May2025 23:21:09.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30May2025 23:21:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[30May2025 23:21:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[30May2025 23:21:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[30May2025 23:21:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30May2025 23:21:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30May2025 23:21:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30May2025 23:21:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30May2025 23:21:09.167] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30May2025 23:21:09.170] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30May2025 23:21:09.171] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[30May2025 23:21:09.172] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[30May2025 23:21:09.172] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[30May2025 23:21:09.173] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30May2025 23:21:09.179] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
