@@ -33,3 +33,13 @@
 [30May2025 00:40:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has completed the challenge [Squire of the Dark Lord]
 [30May2025 00:43:53.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [30May2025 00:43:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:49:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:49:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:49:59.279] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/Bodega.nbt
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2cc24492-37ef-3d5e-98fb-d8bf0bcb9084 timed out
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player jeanpaul_xd
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to jeanpaul_xd
+[30May2025 00:52:38.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd lost connection: Timed out
+[30May2025 00:52:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd left the game
+[30May2025 00:52:38.658] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jeanpaul_xd
+[30May2025 00:52:38.708] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

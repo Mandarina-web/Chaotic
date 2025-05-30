@@ -15468,3 +15468,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 00:41:04.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
 [30May2025 00:43:53.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [30May2025 00:43:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:45:39.206] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[30May2025 00:46:04.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 00:46:04.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 00:49:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:49:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:49:59.279] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/Bodega.nbt
+[30May2025 00:51:04.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 00:51:04.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2cc24492-37ef-3d5e-98fb-d8bf0bcb9084 timed out
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player jeanpaul_xd
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to jeanpaul_xd
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with jeanpaul_xd
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with jeanpaul_xd
+[30May2025 00:52:04.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to jeanpaul_xd
+[30May2025 00:52:04.852] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 2cc24492-37ef-3d5e-98fb-d8bf0bcb9084 to disconnected: {disabled=true, disconnected=true, uuid=2cc24492-37ef-3d5e-98fb-d8bf0bcb9084, name=jeanpaul_xd, group=null}
+[30May2025 00:52:38.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd lost connection: Timed out
+[30May2025 00:52:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd left the game
+[30May2025 00:52:38.658] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jeanpaul_xd
+[30May2025 00:52:38.658] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jeanpaul_xd
+[30May2025 00:52:38.708] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
