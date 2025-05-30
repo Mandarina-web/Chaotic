@@ -1166,3 +1166,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 02:20:08.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
 [30May2025 02:20:09.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
 [30May2025 02:20:09.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[30May2025 02:20:53.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[30May2025 02:20:53.887] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[30May2025 02:20:53.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[30May2025 02:20:54.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 02:20:55.082] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 02:20:55.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[30May2025 02:23:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Ice Bucket Challenge]
+[30May2025 02:28:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 02:30:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 02:33:57.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c timed out
+[30May2025 02:33:57.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elMoillinoYT
+[30May2025 02:33:57.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elMoillinoYT
+[30May2025 02:34:04.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elMoillinoYT moved too quickly! -8.411273718515076,-0.5587968405392019,-5.545525218191528
+[30May2025 02:34:33.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elMoillinoYT lost connection: Disconnected
+[30May2025 02:34:33.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT left the game
+[30May2025 02:34:33.622] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elMoillinoYT
+[30May2025 02:34:33.670] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30May2025 02:34:53.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elMoillinoYT[/10.147.19.234:62473] logged in with entity id 52601 at (253.26314520901292, 93.0, 569.7310821810787)
+[30May2025 02:34:53.132] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player elMoillinoYT
+[30May2025 02:34:53.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT joined the game
+[30May2025 02:34:53.220] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'elMoillinoYT'
+[30May2025 02:34:53.220] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'elMoillinoYT'
+[30May2025 02:34:53.248] [Server thread/INFO] [Jade/]: Syncing config to elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c)
+[30May2025 02:34:53.511] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elMoillinoYT (18)
+[30May2025 02:34:53.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elMoillinoYT
+[30May2025 02:35:03.551] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
+[30May2025 02:35:03.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[30May2025 02:35:04.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[30May2025 02:35:04.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
+[30May2025 02:37:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 3 [Wheat Seeds] to UnGatoCalico]
+[30May2025 02:39:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 16 [Brown Mushroom] to UnGatoCalico]

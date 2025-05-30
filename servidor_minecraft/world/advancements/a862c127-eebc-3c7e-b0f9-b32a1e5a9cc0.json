@@ -17249,9 +17249,39 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/rice_wine_from_water": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/mead_from_honey": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-05-30 02:16:16 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/glittering_grenadine_from_water": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "wan_ancient_beasts:recipes/building_blocks/straw_block": {
+    "criteria": {
+      "has_wheat": "2025-05-30 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/egg_grog_from_milk": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
     },
     "done": true
   },

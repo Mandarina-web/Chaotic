@@ -9162,6 +9162,66 @@
     },
     "done": true
   },
+  "wan_ancient_beasts:recipes/building_blocks/straw_block": {
+    "criteria": {
+      "has_wheat": "2025-05-30 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 02:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 02:03:12 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_spike": {
+    "criteria": {
+      "has_item": "2025-05-30 02:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-30 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-30 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-30 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-30 02:05:45 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:lost_caves": {
+    "criteria": {
+      "lost_caves": "2025-05-30 02:07:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-05-30 02:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-05-30 02:10:36 +0000"
@@ -9180,21 +9240,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-05-30 02:05:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-30 02:10:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-30 02:05:09 +0000"
     },
     "done": true
   },
@@ -9204,27 +9252,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-30 02:05:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-30 02:10:36 +0000"
-    },
-    "done": true
-  },
-  "species:recipes/bone_spike": {
-    "criteria": {
-      "has_item": "2025-05-30 02:05:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-05-30 02:08:18 +0000"
     },
     "done": true
   },
@@ -9240,39 +9270,9 @@
     },
     "done": true
   },
-  "yungscavebiomes:lost_caves": {
-    "criteria": {
-      "lost_caves": "2025-05-30 02:07:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-30 02:03:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-05-30 02:03:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-05-30 02:10:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-05-30 02:05:09 +0000"
-    },
-    "done": true
-  },
-  "wan_ancient_beasts:recipes/building_blocks/straw_block": {
-    "criteria": {
-      "has_wheat": "2025-05-30 02:02:33 +0000"
     },
     "done": true
   },
@@ -9297,6 +9297,24 @@
   "clayworks:recipes/building_blocks/smooth_quartz_from_baking": {
     "criteria": {
       "has_quartz_block": "2025-05-30 02:10:36 +0000"
+    },
+    "done": true
+  },
+  "editenchanting:recipes/decorations/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-30 02:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-30 02:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-30 02:23:03 +0000"
     },
     "done": true
   },
