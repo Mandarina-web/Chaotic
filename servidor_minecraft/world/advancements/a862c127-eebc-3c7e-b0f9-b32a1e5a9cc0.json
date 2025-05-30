@@ -16908,77 +16908,41 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+      "minecraft:soul_sand_valley": "2025-05-29 02:04:18 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "netherexp:nether/soul_sand_valley": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+      "condition": "2025-05-29 02:04:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2025-05-29 02:15:34 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+      "nourishment": "2025-05-29 02:15:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+      "has_pointed_dripstone": "2025-05-29 02:32:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "sullysmod:recipes/building_blocks/crafting/jade_upgrade_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
+      "has_jade_upgrade_smithing_template": "2025-05-29 02:36:45 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 04:10:35 +0000"
-    },
-    "done": false
+    "done": true
   },
   "sullysmod:recipes/building_blocks/stonecutting/jade_bricks_from_jade_block_stonecutting": {
     "criteria": {
@@ -16986,9 +16950,45 @@
     },
     "done": true
   },
-  "sullysmod:recipes/building_blocks/crafting/jade_upgrade_smithing_template": {
+  "sullysmod:recipes/building_blocks/crafting/jade_bricks": {
     "criteria": {
-      "has_jade_upgrade_smithing_template": "2025-05-29 02:36:45 +0000"
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/stonecutting/jade_pillar_from_jade_block_stonecutting": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_pillar": {
+    "criteria": {
+      "has_jade_block": "2025-05-29 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:46:08 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-29 02:46:08 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:husbandry/kill_mob_with_passion_fruit": {
+    "criteria": {
+      "kill_mob_with_passion_fruit": "2025-05-29 02:57:42 +0000"
     },
     "done": true
   },
@@ -17004,12 +17004,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2025-05-29 02:04:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-29 03:20:42 +0000"
@@ -17022,21 +17016,9 @@
     },
     "done": true
   },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-05-29 02:04:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-29 03:20:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-29 03:25:43 +0000"
     },
     "done": true
   },
@@ -17064,27 +17046,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-05-29 03:25:43 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2025-05-29 03:20:42 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2025-05-29 03:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-29 03:25:43 +0000"
     },
     "done": true
   },
@@ -17100,33 +17064,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/cracked_deepslate_tile_secret_button": {
-    "criteria": {
-      "has_thing": "2025-05-29 02:46:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "vegetable_noodles": "2025-05-29 02:15:34 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-29 03:20:42 +0000"
-    },
-    "done": true
-  },
-  "sullysmod:recipes/building_blocks/crafting/jade_bricks": {
-    "criteria": {
-      "has_jade_block": "2025-05-29 02:40:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-05-29 02:32:00 +0000"
     },
     "done": true
   },
@@ -17142,21 +17082,9 @@
     },
     "done": true
   },
-  "sullysmod:recipes/building_blocks/stonecutting/jade_pillar_from_jade_block_stonecutting": {
-    "criteria": {
-      "has_jade_block": "2025-05-29 02:40:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
       "has_birch_planks": "2025-05-29 03:20:42 +0000"
-    },
-    "done": true
-  },
-  "atmospheric:husbandry/kill_mob_with_passion_fruit": {
-    "criteria": {
-      "kill_mob_with_passion_fruit": "2025-05-29 02:57:42 +0000"
     },
     "done": true
   },
@@ -17184,27 +17112,9 @@
     },
     "done": true
   },
-  "sullysmod:recipes/building_blocks/crafting/jade": {
-    "criteria": {
-      "has_jade_block": "2025-05-29 02:40:03 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/birch_plank_secret_button": {
     "criteria": {
       "has_thing": "2025-05-29 03:20:42 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-05-29 02:46:08 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deepsight": {
-    "criteria": {
-      "all_effects": "2025-05-29 03:59:53 +0000"
     },
     "done": true
   },
@@ -17220,33 +17130,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-29 03:25:43 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/birch_large_button": {
     "criteria": {
       "has_thing": "2025-05-29 03:20:42 +0000"
-    },
-    "done": true
-  },
-  "sullysmod:recipes/building_blocks/crafting/jade_pillar": {
-    "criteria": {
-      "has_jade_block": "2025-05-29 02:40:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-29 03:25:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-05-29 02:15:34 +0000"
     },
     "done": true
   },
@@ -17271,6 +17157,54 @@
   "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2025-05-29 03:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-29 03:25:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-29 03:49:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-05-29 03:59:53 +0000"
+    },
+    "done": true
+  },
+  "wan_ancient_beasts:recipes/tools/chisel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-29 23:57:10 +0000"
     },
     "done": true
   },
