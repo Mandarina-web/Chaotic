@@ -16705,7 +16705,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-05-28 03:00:56 +0000"
+      "incendium:infernal_dunes": "2025-05-28 03:00:56 +0000",
+      "incendium:quartz_flats": "2025-05-30 02:59:30 +0000"
     },
     "done": false
   },
@@ -17231,99 +17232,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/packed_ice": {
-    "criteria": {
-      "has_ingredient": "2025-05-30 02:11:12 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/decorations/ice_crate": {
-    "criteria": {
-      "has_ice": "2025-05-30 02:16:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-30 01:47:10 +0000"
     },
     "done": true
   },
-  "brewinandchewin:main/brew_drink": {
+  "refurbished_furniture:recipes/freezing/packed_ice": {
     "criteria": {
-      "has_drink": "2025-05-30 02:45:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-30 02:41:59 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/rice_wine_from_water": {
-    "criteria": {
-      "has_tankard": "2025-05-30 02:32:38 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/saccharine_rum_from_mead": {
-    "criteria": {
-      "has_mead": "2025-05-30 02:45:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cake_from_milk_bottle": {
-    "criteria": {
-      "has_milk_bottle": "2025-05-30 02:44:11 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/mead_from_honey": {
-    "criteria": {
-      "has_tankard": "2025-05-30 02:32:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-05-30 02:16:16 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/glittering_grenadine_from_water": {
-    "criteria": {
-      "has_tankard": "2025-05-30 02:32:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-05-30 02:41:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
-    "criteria": {
-      "has_milk_bottle": "2025-05-30 02:44:11 +0000"
-    },
-    "done": true
-  },
-  "wan_ancient_beasts:recipes/building_blocks/straw_block": {
-    "criteria": {
-      "has_wheat": "2025-05-30 02:33:42 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/misc/golden_milk_bucket": {
-    "criteria": {
-      "has_milk_bottle": "2025-05-30 02:42:52 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/egg_grog_from_milk": {
-    "criteria": {
-      "has_tankard": "2025-05-30 02:32:38 +0000"
+      "has_ingredient": "2025-05-30 02:11:12 +0000"
     },
     "done": true
   },
@@ -17333,9 +17250,63 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/decorations/ice_crate": {
+    "criteria": {
+      "has_ice": "2025-05-30 02:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-30 02:16:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/blue_ice": {
     "criteria": {
       "has_ingredient": "2025-05-30 02:16:16 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/rice_wine_from_water": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/mead_from_honey": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/glittering_grenadine_from_water": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/egg_grog_from_milk": {
+    "criteria": {
+      "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "wan_ancient_beasts:recipes/building_blocks/straw_block": {
+    "criteria": {
+      "has_wheat": "2025-05-30 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 02:41:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-30 02:41:59 +0000"
     },
     "done": true
   },
@@ -17345,9 +17316,213 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/misc/golden_milk_bucket": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-30 02:42:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-30 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-30 02:44:11 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/brew_drink": {
+    "criteria": {
+      "has_drink": "2025-05-30 02:45:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/saccharine_rum_from_mead": {
+    "criteria": {
+      "has_mead": "2025-05-30 02:45:44 +0000"
+    },
+    "done": true
+  },
   "brewinandchewin:main/crafting_problem": {
     "criteria": {
       "brewinandchewin:mead": "2025-05-30 02:46:44 +0000"
+    },
+    "done": false
+  },
+  "brewinandchewin:main/ferment_cheese": {
+    "criteria": {
+      "has_unripe_flaxen_cheese_wheel": "2025-05-30 02:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-30 02:58:55 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/scarlet_cheese_from_milk": {
+    "criteria": {
+      "has_nether_wart": "2025-05-30 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-30 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2025-05-30 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/soul_torch_button": {
+    "criteria": {
+      "has_thing": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-05-30 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-30 02:59:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
     },
     "done": false
   },
