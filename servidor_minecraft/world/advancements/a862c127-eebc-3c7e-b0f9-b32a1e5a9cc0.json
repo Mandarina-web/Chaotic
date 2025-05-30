@@ -9963,11 +9963,16 @@
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_8": "2025-05-24 07:26:36 +0000",
+      "squireofthe_dark_lord_7": "2025-05-30 00:40:20 +0000",
+      "squireofthe_dark_lord_4": "2025-05-30 00:39:02 +0000",
+      "squireofthe_dark_lord_3": "2025-05-30 00:34:17 +0000",
       "squireofthe_dark_lord_6": "2025-05-26 06:25:35 +0000",
       "squireofthe_dark_lord_5": "2025-05-26 06:23:00 +0000",
-      "squireofthe_dark_lord_0": "2025-05-22 22:22:43 +0000"
+      "squireofthe_dark_lord_0": "2025-05-22 22:22:43 +0000",
+      "squireofthe_dark_lord_2": "2025-05-30 00:28:37 +0000",
+      "squireofthe_dark_lord_1": "2025-05-30 00:29:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
@@ -17202,9 +17207,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bonk": {
+    "criteria": {
+      "bonk_0": "2025-05-30 00:30:33 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_spike": {
+    "criteria": {
+      "has_item": "2025-05-30 00:23:36 +0000"
+    },
+    "done": true
+  },
   "wan_ancient_beasts:recipes/tools/chisel": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 23:57:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:spider_warlord": {
+    "criteria": {
+      "spider_warlord_0": "2025-05-30 00:40:20 +0000"
     },
     "done": true
   },

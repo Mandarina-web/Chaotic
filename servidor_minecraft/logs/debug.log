@@ -15436,3 +15436,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 00:23:08.071] [FastSuite Recipe Lookup Thread: 1/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$0(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to mddff480$lambda$brewinandchewin$addExtraFluidContextToPick$0$a in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
 [30May2025 00:23:08.077] [FastSuite Recipe Lookup Thread: 1/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
 [30May2025 00:23:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to jeanpaul_xd]
+[30May2025 00:26:04.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 00:26:04.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 00:27:02.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[30May2025 00:27:02.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[30May2025 00:27:02.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[30May2025 00:27:02.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[30May2025 00:27:21.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:27:28.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:27:56.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:28:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:28:21.200] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[30May2025 00:30:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to jeanpaul_xd]
+[30May2025 00:30:20.038] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-677}
+[30May2025 00:30:20.039] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-676}
+[30May2025 00:30:33.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [Bonk!]
+[30May2025 00:31:04.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 00:31:04.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 00:36:00.138] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-677}
+[30May2025 00:36:00.138] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-676}
+[30May2025 00:36:04.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 00:36:04.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 00:37:48.192] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[30May2025 00:38:24.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:38:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:39:39.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:39:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 00:40:20.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has reached the goal [Spider Warlord]
+[30May2025 00:40:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has completed the challenge [Squire of the Dark Lord]
+[30May2025 00:41:04.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 00:41:04.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 00:43:53.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 00:43:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
