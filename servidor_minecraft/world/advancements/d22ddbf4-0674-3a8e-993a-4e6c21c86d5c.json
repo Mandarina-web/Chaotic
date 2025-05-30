@@ -9319,9 +9319,21 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+  "farmersdelight:main/eat_comfort_food": {
     "criteria": {
-      "has_item": "2025-05-30 02:57:14 +0000"
+      "comfort": "2025-05-30 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-30 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_stone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-30 02:51:30 +0000"
     },
     "done": true
   },
@@ -9331,15 +9343,81 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/cracked_stone_bricks_from_baking": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/torch_button": {
     "criteria": {
       "has_thing": "2025-05-30 02:54:02 +0000"
     },
     "done": true
   },
-  "clayworks:recipes/building_blocks/cracked_stone_bricks_from_baking": {
+  "infinitybuttons:recipe/redstone/torch_lever": {
     "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+      "has_thing": "2025-05-30 02:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-30 02:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-30 02:54:02 +0000"
     },
     "done": true
   },
@@ -9355,33 +9433,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-05-30 02:40:43 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/torch_lever": {
-    "criteria": {
-      "has_thing": "2025-05-30 02:54:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/decorations/ender_brazier": {
     "criteria": {
       "has_silver_ingot": "2025-05-30 02:54:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-30 02:57:14 +0000"
     },
     "done": true
   },
@@ -9391,39 +9445,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/combat/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-05-30 02:54:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-30 02:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-05-30 02:54:02 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/glow_ink_pasta": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-05-30 02:58:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-05-30 02:57:29 +0000"
     },
     "done": true
   },
@@ -9442,18 +9466,6 @@
   "caverns_and_chasms:recipes/tools/silver_pickaxe": {
     "criteria": {
       "has_silver_ingot": "2025-05-30 02:54:23 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-05-30 02:51:30 +0000"
-    },
-    "done": true
-  },
-  "clayworks:recipes/misc/nether_brick_from_baking": {
-    "criteria": {
-      "has_netherrack": "2025-05-30 02:57:14 +0000"
     },
     "done": true
   },
@@ -9487,12 +9499,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/redstone/medium_weighted_pressure_plate": {
     "criteria": {
       "has_silver_ingot": "2025-05-30 02:54:23 +0000"
@@ -9505,51 +9511,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/chiseled_stone_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-05-30 02:51:30 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/tools/silver_hoe": {
     "criteria": {
       "has_silver_ingot": "2025-05-30 02:54:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+      "has_item": "2025-05-30 02:57:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_stone_pickaxe": "2025-05-30 02:54:02 +0000"
+      "has_netherrack": "2025-05-30 02:57:14 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/stone_tile": {
+  "clayworks:recipes/misc/nether_brick_from_baking": {
     "criteria": {
-      "has_stone_bricks": "2025-05-30 02:52:15 +0000"
+      "has_netherrack": "2025-05-30 02:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-30 02:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-30 02:57:29 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-30 02:58:16 +0000"
     },
     "done": true
   },

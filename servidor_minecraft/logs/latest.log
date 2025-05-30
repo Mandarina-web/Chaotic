@@ -1072,3 +1072,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 23:02:43.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
 [30May2025 23:02:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
 [30May2025 23:02:43.240] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[30May2025 23:05:53.351] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:05:53.354] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:05:53.354] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:08:57.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:61788] logged in with entity id 1151 at (1.8386145630930657, 11.5, 23.99548725435609)
+[30May2025 23:08:57.415] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[30May2025 23:08:57.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[30May2025 23:08:57.516] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[30May2025 23:08:57.517] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[30May2025 23:08:57.550] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[30May2025 23:08:59.806] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[30May2025 23:08:59.807] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[30May2025 23:09:02.085] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[30May2025 23:09:03.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 23:09:04.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 23:09:04.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[30May2025 23:09:29.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[30May2025 23:09:29.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[30May2025 23:09:29.984] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[30May2025 23:10:53.261] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:10:53.264] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:10:53.265] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[30May2025 23:13:23.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:62352] logged in with entity id 1422 at (1.8386145630930657, 11.5, 23.99548725435609)
+[30May2025 23:13:23.304] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[30May2025 23:13:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[30May2025 23:13:23.379] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[30May2025 23:13:23.380] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[30May2025 23:13:23.398] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[30May2025 23:13:25.450] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[30May2025 23:13:25.451] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[30May2025 23:13:27.498] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[30May2025 23:13:28.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 23:13:29.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[30May2025 23:13:29.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[30May2025 23:13:52.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[30May2025 23:13:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[30May2025 23:13:52.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
