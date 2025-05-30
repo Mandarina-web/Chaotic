@@ -17207,9 +17207,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bonk": {
+  "wan_ancient_beasts:recipes/tools/chisel": {
     "criteria": {
-      "bonk_0": "2025-05-30 00:30:33 +0000"
+      "has_iron_ingot": "2025-05-29 23:57:10 +0000"
     },
     "done": true
   },
@@ -17219,9 +17219,9 @@
     },
     "done": true
   },
-  "wan_ancient_beasts:recipes/tools/chisel": {
+  "born_in_chaos_v1:bonk": {
     "criteria": {
-      "has_iron_ingot": "2025-05-29 23:57:10 +0000"
+      "bonk_0": "2025-05-30 00:30:33 +0000"
     },
     "done": true
   },
