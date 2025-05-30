@@ -2,3 +2,15 @@
 [30May2025 00:03:35.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico moved too quickly! -663.670582468317,5.0625,-1261.3902210047513
 [30May2025 00:03:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico was killed
 [30May2025 00:03:56.790] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[30May2025 00:13:37.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeanpaul_xd[/10.147.19.78:58063] logged in with entity id 6879 at (-360.0029580926777, 136.0, 326.23750001192093)
+[30May2025 00:13:37.525] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player jeanpaul_xd
+[30May2025 00:13:37.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd joined the game
+[30May2025 00:13:37.624] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'jeanpaul_xd'
+[30May2025 00:13:37.625] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'jeanpaul_xd'
+[30May2025 00:13:37.653] [Server thread/INFO] [Jade/]: Syncing config to jeanpaul_xd (2cc24492-37ef-3d5e-98fb-d8bf0bcb9084)
+[30May2025 00:13:41.517] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jeanpaul_xd (18)
+[30May2025 00:13:41.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jeanpaul_xd
+[30May2025 00:13:47.023] [Server thread/INFO] [do_a_barrel_roll/]: Client of jeanpaul_xd accepted server config.
+[30May2025 00:13:51.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2cc24492-37ef-3d5e-98fb-d8bf0bcb9084
+[30May2025 00:13:52.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2cc24492-37ef-3d5e-98fb-d8bf0bcb9084
+[30May2025 00:13:52.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jeanpaul_xd (2cc24492-37ef-3d5e-98fb-d8bf0bcb9084) successfully connected to voice chat
