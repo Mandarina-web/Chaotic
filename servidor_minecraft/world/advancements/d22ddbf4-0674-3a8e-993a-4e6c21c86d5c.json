@@ -1811,6 +1811,7 @@
       "neapolitan:strawberries": "2025-05-25 14:18:36 +0000",
       "abnormals_delight:dumplings": "2025-05-29 02:50:27 +0000",
       "atmospheric:passion_fruit": "2025-05-28 22:43:41 +0000",
+      "mushroom_stew": "2025-05-30 02:40:43 +0000",
       "spider_eye": "2025-05-25 14:01:03 +0000",
       "caverns_and_chasms:bejeweled_apple": "2025-05-29 03:46:10 +0000",
       "cookie": "2025-05-25 12:04:53 +0000",
@@ -9315,6 +9316,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-30 02:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-30 02:40:43 +0000"
     },
     "done": true
   },

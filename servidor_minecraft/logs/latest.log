@@ -1197,3 +1197,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 02:35:04.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
 [30May2025 02:37:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 3 [Wheat Seeds] to UnGatoCalico]
 [30May2025 02:39:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 16 [Brown Mushroom] to UnGatoCalico]
+[30May2025 02:41:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Summoned new Cow]
+[30May2025 02:43:12.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 02:43:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 02:44:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 02:44:13.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 02:45:44.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [Acquired Taste]
+[30May2025 02:46:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Tankard] to UnGatoCalico]
+[30May2025 02:50:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 3 [Lantern] to UnGatoCalico]
+[30May2025 02:51:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT blew up
+[30May2025 02:51:06.269] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.

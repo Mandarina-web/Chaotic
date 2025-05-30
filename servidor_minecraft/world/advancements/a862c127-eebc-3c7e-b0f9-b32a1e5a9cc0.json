@@ -17249,9 +17249,33 @@
     },
     "done": true
   },
+  "brewinandchewin:main/brew_drink": {
+    "criteria": {
+      "has_drink": "2025-05-30 02:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 02:41:59 +0000"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/fermenting/rice_wine_from_water": {
     "criteria": {
       "has_tankard": "2025-05-30 02:32:38 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/saccharine_rum_from_mead": {
+    "criteria": {
+      "has_mead": "2025-05-30 02:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-30 02:44:11 +0000"
     },
     "done": true
   },
@@ -17273,9 +17297,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-30 02:41:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-30 02:44:11 +0000"
+    },
+    "done": true
+  },
   "wan_ancient_beasts:recipes/building_blocks/straw_block": {
     "criteria": {
       "has_wheat": "2025-05-30 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/golden_milk_bucket": {
+    "criteria": {
+      "has_milk_bottle": "2025-05-30 02:42:52 +0000"
     },
     "done": true
   },
@@ -17296,6 +17338,18 @@
       "has_ingredient": "2025-05-30 02:16:16 +0000"
     },
     "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-30 02:41:59 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/crafting_problem": {
+    "criteria": {
+      "brewinandchewin:mead": "2025-05-30 02:46:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

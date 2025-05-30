@@ -15948,3 +15948,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30May2025 02:38:48.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
 [30May2025 02:39:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 16 [Brown Mushroom] to UnGatoCalico]
 [30May2025 02:40:31.967] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[30May2025 02:41:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Summoned new Cow]
+[30May2025 02:43:12.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 02:43:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 02:43:48.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 02:43:48.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 02:43:56.966] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[30May2025 02:44:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[30May2025 02:44:13.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[30May2025 02:45:44.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [Acquired Taste]
+[30May2025 02:46:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Tankard] to UnGatoCalico]
+[30May2025 02:48:48.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[30May2025 02:48:48.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[30May2025 02:49:33.987] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[30May2025 02:50:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 3 [Lantern] to UnGatoCalico]
+[30May2025 02:51:00.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT blew up
+[30May2025 02:51:06.269] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
