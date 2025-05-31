@@ -1074,3 +1074,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 19:06:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Rice] to UnGatoCalico]
 [31May2025 19:08:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [31May2025 19:10:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 19:15:13.103] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cooking in 58.99 μs. 0/143 recipes are parallelized.

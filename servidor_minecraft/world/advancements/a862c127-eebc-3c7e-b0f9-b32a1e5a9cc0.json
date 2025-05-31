@@ -2096,7 +2096,9 @@
       "suspicious_stew": "2025-05-23 20:54:01 +0000",
       "neapolitan:chocolate_spider_eye": "2025-05-26 07:17:21 +0000",
       "rabbit_stew": "2025-05-21 22:28:34 +0000",
+      "abnormals_delight:cooked_rice": "2025-05-31 19:17:41 +0000",
       "abnormals_delight:cooked_chicken_cuts": "2025-05-29 03:22:41 +0000",
+      "abnormals_delight:tomato_sauce": "2025-05-31 19:15:23 +0000",
       "melon_slice": "2025-05-21 03:09:22 +0000",
       "cooked_rabbit": "2025-05-23 02:19:47 +0000",
       "cooked_porkchop": "2025-05-22 05:51:14 +0000",
@@ -17714,9 +17716,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-31 19:16:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-05-31 18:56:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-31 19:16:19 +0000"
     },
     "done": true
   },
