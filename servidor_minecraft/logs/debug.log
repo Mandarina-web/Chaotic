@@ -14756,3 +14756,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 19:30:31.943] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
 [31May2025 19:31:01.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
 [31May2025 19:31:36.394] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[31May2025 19:34:35.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 19:34:35.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 19:37:14.700] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[31May2025 19:39:35.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 19:39:35.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 19:39:41.701] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
