@@ -1086,3 +1086,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 02:44:57.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elMoillinoYT lost connection: Disconnected
 [31May2025 02:44:57.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT left the game
 [31May2025 02:44:57.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elMoillinoYT
+[31May2025 02:53:46.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported 388 entities to UnGatoCalico]
+[31May2025 02:59:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gamerule randomTickSpeed is now set to: 1000]
+[31May2025 02:59:32.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gamerule randomTickSpeed is now set to: 250]
+[31May2025 03:00:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gamerule randomTickSpeed is now set to: 100]
+[31May2025 03:00:31.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[31May2025 03:00:31.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[31May2025 03:00:31.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[31May2025 03:00:32.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[31May2025 03:00:33.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[31May2025 03:00:33.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[31May2025 03:01:19.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported 82 entities to UnGatoCalico]
