@@ -9782,7 +9782,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9804,6 +9804,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-31 01:48:49 +0000"
+    },
+    "done": true
+  },
   "autumnity:recipes/building_blocks/cupric_jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-05-31 01:08:02 +0000"
@@ -9818,9 +9824,15 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
+  },
+  "infinitybuttons:recipe/redstone/woodworks_spruce_bookshelf_secret_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 01:43:14 +0000"
+    },
+    "done": true
   },
   "autumnity:recipes/building_blocks/ender_jack_o_lantern": {
     "criteria": {
@@ -9836,7 +9848,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9854,7 +9866,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9866,7 +9878,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9884,7 +9896,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9908,7 +9920,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9920,7 +9932,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9932,7 +9944,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -9992,7 +10004,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -10064,7 +10076,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -10088,7 +10100,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 01:39:27 +0000"
+      "log_spam_fixer": "2025-05-31 01:49:27 +0000"
     },
     "done": false
   },

@@ -1103,3 +1103,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 01:27:15.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
 [31May2025 01:27:16.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
 [31May2025 01:27:16.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
+[31May2025 01:48:49.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Voluntary Exile]
