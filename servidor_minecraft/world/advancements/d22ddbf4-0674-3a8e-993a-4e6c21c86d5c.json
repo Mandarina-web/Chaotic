@@ -1812,6 +1812,7 @@
       "abnormals_delight:dumplings": "2025-05-29 02:50:27 +0000",
       "atmospheric:passion_fruit": "2025-05-28 22:43:41 +0000",
       "mushroom_stew": "2025-05-30 02:40:43 +0000",
+      "abnormals_delight:vegetable_noodles": "2025-05-31 00:02:06 +0000",
       "spider_eye": "2025-05-25 14:01:03 +0000",
       "caverns_and_chasms:bejeweled_apple": "2025-05-29 03:46:10 +0000",
       "cookie": "2025-05-25 12:04:53 +0000",
@@ -9553,71 +9554,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:quartz_flats": "2025-05-30 23:17:20 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-30 23:17:19 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
   },
   "incendium:root": {
     "criteria": {
@@ -9625,9 +9566,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:nether/root": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
+      "entered_nether": "2025-05-30 23:17:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-05-30 23:17:20 +0000"
     },
     "done": false
   },
@@ -9643,27 +9590,189 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 23:16:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-30 23:17:19 +0000"
-    },
-    "done": true
-  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-05-30 23:17:20 +0000"
+    },
+    "done": true
+  },
+  "wan_ancient_beasts:recipes/tools/chisel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-30 23:47:12 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_nugget_from_blasting": {
+    "criteria": {
+      "has_silver_sword": "2025-05-30 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_nugget_from_smelting": {
+    "criteria": {
+      "has_silver_sword": "2025-05-30 23:47:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2025-05-31 00:02:06 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-31 00:02:06 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/brew_drink": {
+    "criteria": {
+      "has_drink": "2025-05-31 00:08:27 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/strongroot_ale_from_beer": {
+    "criteria": {
+      "has_beer": "2025-05-31 00:08:27 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/rice_wine_from_water": {
+    "criteria": {
+      "has_tankard": "2025-05-31 00:08:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/mead_from_honey": {
+    "criteria": {
+      "has_tankard": "2025-05-31 00:08:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/glittering_grenadine_from_water": {
+    "criteria": {
+      "has_tankard": "2025-05-31 00:08:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/egg_grog_from_milk": {
+    "criteria": {
+      "has_tankard": "2025-05-31 00:08:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/crafting_problem": {
+    "criteria": {
+      "brewinandchewin:beer": "2025-05-31 00:08:44 +0000"
+    },
+    "done": false
+  },
+  "atmospheric:recipes/redstone/rosewood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/decorations/rosewood_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/atmospheric/sign_post_rosewood": {
+    "criteria": {
+      "has_item": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/rosewood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/building_blocks/rosewood_boards_from_rosewood_planks_sawing": {
+    "criteria": {
+      "has_rosewood_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/decorations/rosewood_ladder_from_rosewood_planks_sawing": {
+    "criteria": {
+      "has_rosewood_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/rosewood_button_from_rosewood_planks_sawing": {
+    "criteria": {
+      "has_rosewood_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/rosewood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/rosewood_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/building_blocks/rosewood_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/atmospheric/sled_rosewood": {
+    "criteria": {
+      "has_item": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/decorations/rosewood_fence_from_rosewood_planks_sawing": {
+    "criteria": {
+      "has_rosewood_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/building_blocks/rosewood_slab_from_rosewood_planks_sawing": {
+    "criteria": {
+      "has_rosewood_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/rosewood_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/building_blocks/rosewood_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/atmospheric/item_shelf_rosewood": {
+    "criteria": {
+      "has_item": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/decorations/rosewood_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/building_blocks/rosewood_stairs_from_rosewood_planks_sawing": {
+    "criteria": {
+      "has_rosewood_planks": "2025-05-31 00:20:40 +0000"
     },
     "done": true
   },

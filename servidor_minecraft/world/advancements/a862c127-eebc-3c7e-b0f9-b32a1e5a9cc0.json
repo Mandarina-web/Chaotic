@@ -17348,7 +17348,8 @@
   },
   "brewinandchewin:main/crafting_problem": {
     "criteria": {
-      "brewinandchewin:mead": "2025-05-30 02:46:44 +0000"
+      "brewinandchewin:mead": "2025-05-30 02:46:44 +0000",
+      "brewinandchewin:beer": "2025-05-30 23:54:58 +0000"
     },
     "done": false
   },
@@ -17454,77 +17455,203 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cnc:wendigo_killed": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "wendigo_killed_0": "2025-05-30 23:47:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "endergetic:recipes/redstone/trapped_poise_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "woodworks:recipes/redstone/trapped_warped_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "sullysmod:recipes/building_blocks/crafting/jade_flinger_totem_from_jade_totem": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "atmospheric:recipes/redstone/trapped_yucca_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "environmental:recipes/redstone/trapped_willow_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "atmospheric:recipes/redstone/trapped_grimwood_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "autumnity:recipes/redstone/trapped_maple_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "sullysmod:recipes/building_blocks/crafting/jade_flinger_totem": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "atmospheric:recipes/redstone/trapped_aspen_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "atmospheric:recipes/redstone/trapped_laurel_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "woodworks:recipes/redstone/trapped_bamboo_closet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-30 02:59:48 +0000"
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "caverns_and_chasms:recipes/redstone/trapped_azalea_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/trapped_driftwood_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/trapped_plum_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/trapped_river_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/trapped_rosewood_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/trapped_morado_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_jungle_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:recipes/redstone/trapped_kousa_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_dark_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/trapped_pine_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/trapped_wisteria_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_cherry_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_birch_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-05-30 23:48:01 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/strongroot_ale_from_beer": {
+    "criteria": {
+      "has_beer": "2025-05-30 23:54:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
