@@ -1071,3 +1071,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 00:36:03.158] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
 [31May2025 00:36:03.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
 [31May2025 00:39:14.626] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 7.785 ms. 6024/6176 recipes are parallelized.
+[31May2025 00:41:42.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
+[31May2025 00:42:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 00:45:14.599] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 00:45:14.600] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 00:45:14.601] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 00:45:44.843] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 253.4 μs. 254/254 recipes are parallelized.
+[31May2025 00:48:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 00:48:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]

@@ -14970,3 +14970,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 00:40:39.912] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of atmospheric:kousa_sanctum
 [31May2025 00:40:40.896] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:abandoned_farm
 [31May2025 00:40:50.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[31May2025 00:41:42.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
+[31May2025 00:42:29.283] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[31May2025 00:42:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 00:42:42.291] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[31May2025 00:44:27.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 00:44:27.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 00:45:14.599] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 00:45:14.600] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 00:45:14.601] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 00:45:24.979] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[31May2025 00:45:44.843] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 253.4 μs. 254/254 recipes are parallelized.
+[31May2025 00:46:42.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of autumnity:maple_hut/maple_hut
+[31May2025 00:46:43.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[31May2025 00:46:43.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[31May2025 00:46:51.031] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[31May2025 00:48:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 00:48:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 00:49:05.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_test_zone
+[31May2025 00:49:05.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_roof
+[31May2025 00:49:05.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_floor_helper
+[31May2025 00:49:05.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_room_roof
+[31May2025 00:49:05.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_banners_helper
+[31May2025 00:49:05.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_interior_blocker
+[31May2025 00:49:05.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_3way_center
+[31May2025 00:49:05.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_3way
+[31May2025 00:49:05.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_straight_center
+[31May2025 00:49:05.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_center_back
+[31May2025 00:49:05.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_accent
+[31May2025 00:49:05.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_straight
+[31May2025 00:49:05.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_crown
+[31May2025 00:49:05.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_connector
+[31May2025 00:49:05.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_corner
+[31May2025 00:49:05.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window_tall
+[31May2025 00:49:05.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_blank
+[31May2025 00:49:05.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window_short
+[31May2025 00:49:05.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window1
+[31May2025 00:49:05.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_tower_stairs_1
+[31May2025 00:49:05.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_tower_stairs_2
+[31May2025 00:49:05.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_room_stairs_2
+[31May2025 00:49:05.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_room_stairs_1
+[31May2025 00:49:05.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_landing
+[31May2025 00:49:05.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk
+[31May2025 00:49:05.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_banners
+[31May2025 00:49:05.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_gap
+[31May2025 00:49:05.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window1_center
+[31May2025 00:49:05.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk_4
+[31May2025 00:49:05.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk_3
+[31May2025 00:49:05.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk_2
+[31May2025 00:49:05.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_statue
+[31May2025 00:49:08.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[31May2025 00:49:27.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 00:49:28.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 00:50:41.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[31May2025 00:50:41.519] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[31May2025 00:50:41.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[31May2025 00:51:15.296] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
