@@ -15095,7 +15095,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-05-28 03:02:59 +0000"
+      "incendium:infernal_dunes": "2025-05-28 03:02:59 +0000",
+      "incendium:quartz_flats": "2025-05-31 22:26:20 +0000"
     },
     "done": false
   },
@@ -15329,7 +15330,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-05-28 03:05:40 +0000"
+      "minecraft:soul_sand_valley": "2025-05-28 03:05:40 +0000",
+      "minecraft:nether_wastes": "2025-05-31 22:22:45 +0000"
     },
     "done": false
   },
@@ -16646,6 +16648,54 @@
   "sullysmod:recipes/building_blocks/crafting/throwing_knife": {
     "criteria": {
       "has_piranha_tooth": "2025-05-31 22:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-31 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-31 22:23:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-05-31 22:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-31 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-31 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-31 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/roasted_bone": {
+    "criteria": {
+      "item": "2025-05-31 22:23:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-31 22:26:20 +0000"
     },
     "done": true
   },

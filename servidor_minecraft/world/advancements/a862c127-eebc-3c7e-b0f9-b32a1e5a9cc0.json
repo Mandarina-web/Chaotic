@@ -18351,5 +18351,11 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/waxed_oxidized_copper_golem_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_golem": "2025-05-31 22:30:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1116,3 +1116,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 22:21:51.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [31May2025 22:22:01.838] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.328 ms. 6024/6176 recipes are parallelized.
 [31May2025 22:22:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 22:22:53.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31May2025 22:23:17.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8957ms or 179 ticks behind
+[31May2025 22:24:35.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 22:24:53.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 22:26:07.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=97, z=283} BlockPos{x=88, y=97, z=280}
+[31May2025 22:26:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has made the advancement [Hellish Paradise]
+[31May2025 22:26:52.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c timed out
+[31May2025 22:26:52.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elMoillinoYT
+[31May2025 22:26:52.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elMoillinoYT
+[31May2025 22:26:52.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[31May2025 22:26:53.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[31May2025 22:26:53.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
+[31May2025 22:28:46.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=113, z=324} BlockPos{x=106, y=112, z=325}
+[31May2025 22:28:55.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=112, z=324} BlockPos{x=101, y=112, z=321}
+[31May2025 22:28:55.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=112, z=324} BlockPos{x=101, y=112, z=321}
+[31May2025 22:28:55.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=112, z=324} BlockPos{x=101, y=112, z=321}
+[31May2025 22:28:55.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=112, z=324} BlockPos{x=101, y=112, z=321}
+[31May2025 22:28:56.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=112, z=324} BlockPos{x=101, y=112, z=321}
+[31May2025 22:30:15.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Oxidized Copper Golem] to UnGatoCalico]
