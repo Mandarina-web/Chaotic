@@ -1076,3 +1076,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 19:10:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
 [31May2025 19:15:13.103] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cooking in 58.99 μs. 0/143 recipes are parallelized.
 [31May2025 19:29:13.557] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 1.412 ms. 254/254 recipes are parallelized.
+[31May2025 19:47:38.471] [Worker-Main-32/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 19:47:54.010] [Worker-Main-32/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22671, l='ServerLevel[Entropy]', x=-103.50, y=-28.00, z=-1062.50] as it would cause deadlock
+[31May2025 19:47:54.937] [Worker-Main-32/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22681, l='ServerLevel[Entropy]', x=-109.50, y=-3.00, z=-1166.50] as it would cause deadlock
+[31May2025 19:47:54.941] [Worker-Main-32/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22683, l='ServerLevel[Entropy]', x=-99.50, y=22.00, z=-1164.50] as it would cause deadlock
+[31May2025 19:47:56.081] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22709, l='ServerLevel[Entropy]', x=-254.50, y=-53.00, z=-1182.50] as it would cause deadlock
+[31May2025 19:47:56.202] [Worker-Main-32/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22712, l='ServerLevel[Entropy]', x=-262.50, y=-53.00, z=-1182.50] as it would cause deadlock
+[31May2025 19:48:02.077] [Worker-Main-32/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/22781, l='ServerLevel[Entropy]', x=-103.50, y=-3.00, z=-1192.50] as it would cause deadlock
+[31May2025 19:48:05.861] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/22824, l='ServerLevel[Entropy]', x=-91.50, y=22.00, z=-1164.50] as it would cause deadlock
+[31May2025 19:48:07.943] [Worker-Main-32/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22868, l='ServerLevel[Entropy]', x=-258.50, y=-53.00, z=-1212.50] as it would cause deadlock
+[31May2025 19:48:08.843] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22879, l='ServerLevel[Entropy]', x=-220.50, y=-53.00, z=-1202.50] as it would cause deadlock
+[31May2025 19:48:08.844] [Worker-Main-30/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/22881, l='ServerLevel[Entropy]', x=-220.50, y=-53.00, z=-1210.50] as it would cause deadlock
+[31May2025 19:48:22.451] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 19:48:58.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 19:49:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has reached the goal [Pouch Collector]
+[31May2025 19:49:11.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 19:50:26.454] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 104.8 μs. 0/336 recipes are parallelized.

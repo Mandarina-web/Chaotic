@@ -17724,9 +17724,21 @@
     },
     "done": true
   },
+  "gnumus:sack_collector": {
+    "criteria": {
+      "sack_collector": "2025-05-31 19:49:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-05-31 18:56:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-05-31 19:47:48 +0000"
     },
     "done": true
   },
