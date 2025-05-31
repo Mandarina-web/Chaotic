@@ -14982,3 +14982,263 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 02:32:18.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of autumnity:maple_hut/maple_hut
 [31May2025 02:32:18.745] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:abandoned_farm
 [31May2025 02:32:39.593] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[31May2025 02:33:05.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:castle_parts/corridor_top_part1
+[31May2025 02:33:05.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_vindicator_axe
+[31May2025 02:33:05.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_pillager
+[31May2025 02:33:05.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_vindicator_sword
+[31May2025 02:33:05.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_evoker
+[31May2025 02:33:05.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_witch
+[31May2025 02:33:05.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:into_underground/corridor_spiral
+[31May2025 02:33:05.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_ravager
+[31May2025 02:33:05.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:mob_summon/custom_enemy_illusioner
+[31May2025 02:33:05.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:castle_parts/corridor_top_part2
+[31May2025 02:33:05.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:into_underground/corridor_udgd_starter3
+[31May2025 02:33:05.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_stairs
+[31May2025 02:33:05.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:underground_decor_entrances/corridor_udgd_lower_entrance_6
+[31May2025 02:33:05.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:underground_decor_entrances/corridor_udgd_lower_entrance_4
+[31May2025 02:33:05.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_22
+[31May2025 02:33:05.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_11
+[31May2025 02:33:05.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_long_side
+[31May2025 02:33:05.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:underground_decor_entrances/corridor_udgd_lower_entrance_9
+[31May2025 02:33:05.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:underground_decor_entrances/corridor_udgd_lower_entrance_5
+[31May2025 02:33:05.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_long
+[31May2025 02:33:05.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_4
+[31May2025 02:33:05.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:underground_decor_entrances/corridor_udgd_lower_entrance_7
+[31May2025 02:33:05.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:underground_decor_entrances/corridor_udgd_lower_entrance_11
+[31May2025 02:33:05.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_12
+[31May2025 02:33:05.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_fullwall
+[31May2025 02:33:05.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_10
+[31May2025 02:33:05.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_5
+[31May2025 02:33:05.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_1
+[31May2025 02:33:05.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_fullwall
+[31May2025 02:33:05.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_5
+[31May2025 02:33:05.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_2
+[31May2025 02:33:05.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_2
+[31May2025 02:33:05.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_9
+[31May2025 02:33:05.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_6
+[31May2025 02:33:05.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_crossroad
+[31May2025 02:33:05.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_10
+[31May2025 02:33:05.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_1
+[31May2025 02:33:05.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_03
+[31May2025 02:33:05.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_8
+[31May2025 02:33:05.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_17
+[31May2025 02:33:05.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_16
+[31May2025 02:33:05.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_14
+[31May2025 02:33:05.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_11
+[31May2025 02:33:05.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_7
+[31May2025 02:33:05.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:crossroad_decor/corridor_crossroad_decor_2
+[31May2025 02:33:05.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_13
+[31May2025 02:33:05.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_18
+[31May2025 02:33:05.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_12
+[31May2025 02:33:05.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_21
+[31May2025 02:33:05.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_bigstairs
+[31May2025 02:33:05.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_11
+[31May2025 02:33:05.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_12
+[31May2025 02:33:05.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_10
+[31May2025 02:33:05.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_9
+[31May2025 02:33:05.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_4
+[31May2025 02:33:05.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_1
+[31May2025 02:33:05.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:crossroad_decor/corridor_crossroad_decor_3
+[31May2025 02:33:05.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_13
+[31May2025 02:33:05.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_13
+[31May2025 02:33:05.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_8
+[31May2025 02:33:05.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_3
+[31May2025 02:33:05.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_20
+[31May2025 02:33:05.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:crossroad_decor/corridor_crossroad_decor_1
+[31May2025 02:33:05.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_01
+[31May2025 02:33:05.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_23
+[31May2025 02:33:05.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_17
+[31May2025 02:33:05.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_6
+[31May2025 02:33:05.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_15
+[31May2025 02:33:05.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallways_and_rooms/corridor_room_16
+[31May2025 02:33:05.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_7
+[31May2025 02:33:05.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_11
+[31May2025 02:33:05.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_9
+[31May2025 02:33:05.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_13
+[31May2025 02:33:05.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_3
+[31May2025 02:33:05.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_6
+[31May2025 02:33:05.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_7
+[31May2025 02:33:05.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_3
+[31May2025 02:33:05.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_5
+[31May2025 02:33:05.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:hallway_decor/corridor_long_wallshelf_8
+[31May2025 02:33:05.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:stairwall_decor/corridor_stairs_walldecor_4
+[31May2025 02:33:05.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prototypedungeons:ending_pieces/corridor_deadend_10
+[31May2025 02:33:17.332] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[31May2025 02:33:17.354] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[31May2025 02:33:17.371] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[31May2025 02:33:17.385] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[31May2025 02:33:17.407] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[31May2025 02:33:18.132] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of atmospheric:kousa_sanctum
+[31May2025 02:33:19.073] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[31May2025 02:33:19.659] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (566 | 32 | 722)
+[31May2025 02:33:19.678] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (566 | 32 | 722)
+[31May2025 02:33:19.679] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (576 | 23 | 750)
+[31May2025 02:33:19.684] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (576 | 23 | 750)
+[31May2025 02:33:19.684] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (566 | 5 | 749)
+[31May2025 02:33:19.688] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (566 | 5 | 749)
+[31May2025 02:33:19.688] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (588 | 5 | 735)
+[31May2025 02:33:19.690] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (588 | 5 | 735)
+[31May2025 02:33:19.690] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (589 | 5 | 747)
+[31May2025 02:33:19.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (589 | 5 | 747)
+[31May2025 02:33:19.694] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (589 | 5 | 744)
+[31May2025 02:33:19.695] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (589 | 5 | 744)
+[31May2025 02:33:20.574] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (608 | 41 | 748)
+[31May2025 02:33:20.581] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (608 | 41 | 748)
+[31May2025 02:33:20.581] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (602 | 41 | 731)
+[31May2025 02:33:20.588] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (602 | 41 | 731)
+[31May2025 02:33:20.590] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (607 | 32 | 739)
+[31May2025 02:33:20.591] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (607 | 32 | 739)
+[31May2025 02:33:20.591] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (602 | 32 | 722)
+[31May2025 02:33:20.592] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (602 | 32 | 722)
+[31May2025 02:33:20.592] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (605 | 32 | 749)
+[31May2025 02:33:20.592] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (605 | 32 | 749)
+[31May2025 02:33:20.592] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (605 | 32 | 745)
+[31May2025 02:33:20.592] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (605 | 32 | 745)
+[31May2025 02:33:20.592] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/crops with rotation CLOCKWISE_90 at (612 | 32 | 749)
+[31May2025 02:33:20.593] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/crops with rotation CLOCKWISE_90 at (612 | 32 | 749)
+[31May2025 02:33:20.593] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (612 | 32 | 745)
+[31May2025 02:33:20.595] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (612 | 32 | 745)
+[31May2025 02:33:20.595] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (608 | 32 | 744)
+[31May2025 02:33:20.596] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (608 | 32 | 744)
+[31May2025 02:33:20.596] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation NONE at (602 | 22 | 749)
+[31May2025 02:33:20.597] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation NONE at (602 | 22 | 749)
+[31May2025 02:33:20.598] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation NONE at (602 | 13 | 749)
+[31May2025 02:33:20.598] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation NONE at (602 | 13 | 749)
+[31May2025 02:33:20.601] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers at (602 | 13 | 749)
+[31May2025 02:33:20.602] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers at (602 | 13 | 749)
+[31May2025 02:33:20.603] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (606 | 5 | 735)
+[31May2025 02:33:20.605] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (606 | 5 | 735)
+[31May2025 02:33:20.606] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (612 | 5 | 747)
+[31May2025 02:33:20.607] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (612 | 5 | 747)
+[31May2025 02:33:20.607] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (607 | 5 | 747)
+[31May2025 02:33:20.607] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (607 | 5 | 747)
+[31May2025 02:33:20.607] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (607 | 5 | 744)
+[31May2025 02:33:20.607] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (607 | 5 | 744)
+[31May2025 02:33:20.609] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (615 | 5 | 736)
+[31May2025 02:33:20.610] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (615 | 5 | 736)
+[31May2025 02:33:20.610] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:20.611] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:21.945] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (602 | 41 | 731)
+[31May2025 02:33:21.946] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (602 | 41 | 731)
+[31May2025 02:33:21.948] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation COUNTERCLOCKWISE_90 at (588 | 32 | 717)
+[31May2025 02:33:21.949] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation COUNTERCLOCKWISE_90 at (588 | 32 | 717)
+[31May2025 02:33:21.949] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_4 with rotation CLOCKWISE_180 at (588 | 32 | 726)
+[31May2025 02:33:21.950] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_4 with rotation CLOCKWISE_180 at (588 | 32 | 726)
+[31May2025 02:33:21.952] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (597 | 32 | 728)
+[31May2025 02:33:21.953] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (597 | 32 | 728)
+[31May2025 02:33:21.953] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (602 | 32 | 722)
+[31May2025 02:33:21.954] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (602 | 32 | 722)
+[31May2025 02:33:21.956] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (588 | 5 | 735)
+[31May2025 02:33:21.956] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (588 | 5 | 735)
+[31May2025 02:33:21.956] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (606 | 5 | 735)
+[31May2025 02:33:21.957] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (606 | 5 | 735)
+[31May2025 02:33:22.148] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (602 | 41 | 731)
+[31May2025 02:33:22.150] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (602 | 41 | 731)
+[31May2025 02:33:22.150] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (619 | 32 | 727)
+[31May2025 02:33:22.151] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (619 | 32 | 727)
+[31May2025 02:33:22.151] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (602 | 32 | 722)
+[31May2025 02:33:22.157] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (602 | 32 | 722)
+[31May2025 02:33:22.158] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (606 | 5 | 735)
+[31May2025 02:33:22.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (606 | 5 | 735)
+[31May2025 02:33:22.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:22.160] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:22.789] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (624 | 41 | 764)
+[31May2025 02:33:22.790] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (624 | 41 | 764)
+[31May2025 02:33:22.791] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (629 | 41 | 758)
+[31May2025 02:33:22.792] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (629 | 41 | 758)
+[31May2025 02:33:22.792] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 744)
+[31May2025 02:33:22.793] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 744)
+[31May2025 02:33:22.793] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (625 | 32 | 753)
+[31May2025 02:33:22.794] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (625 | 32 | 753)
+[31May2025 02:33:22.794] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 762)
+[31May2025 02:33:22.795] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 762)
+[31May2025 02:33:22.795] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (635 | 14 | 765)
+[31May2025 02:33:22.795] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (635 | 14 | 765)
+[31May2025 02:33:22.795] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (635 | 14 | 765)
+[31May2025 02:33:22.796] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (635 | 14 | 765)
+[31May2025 02:33:22.796] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (629 | 14 | 755)
+[31May2025 02:33:22.796] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (629 | 14 | 755)
+[31May2025 02:33:22.797] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (629 | 14 | 755)
+[31May2025 02:33:22.797] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (629 | 14 | 755)
+[31May2025 02:33:22.797] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (634 | 14 | 766)
+[31May2025 02:33:22.797] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (634 | 14 | 766)
+[31May2025 02:33:22.798] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (634 | 14 | 766)
+[31May2025 02:33:22.798] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (634 | 14 | 766)
+[31May2025 02:33:22.798] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (624 | 14 | 754)
+[31May2025 02:33:22.799] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (624 | 14 | 754)
+[31May2025 02:33:22.799] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (624 | 14 | 754)
+[31May2025 02:33:22.800] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (624 | 14 | 754)
+[31May2025 02:33:22.800] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (630 | 14 | 750)
+[31May2025 02:33:22.803] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (630 | 14 | 750)
+[31May2025 02:33:22.803] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (630 | 14 | 750)
+[31May2025 02:33:22.806] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (630 | 14 | 750)
+[31May2025 02:33:22.834] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 744)
+[31May2025 02:33:22.835] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 744)
+[31May2025 02:33:22.836] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (631 | 32 | 724)
+[31May2025 02:33:22.836] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (631 | 32 | 724)
+[31May2025 02:33:22.836] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (630 | 14 | 750)
+[31May2025 02:33:22.837] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (630 | 14 | 750)
+[31May2025 02:33:22.837] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (630 | 14 | 750)
+[31May2025 02:33:22.838] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (630 | 14 | 750)
+[31May2025 02:33:22.838] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (626 | 12 | 737)
+[31May2025 02:33:22.838] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (626 | 12 | 737)
+[31May2025 02:33:22.839] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:22.841] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:23.000] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (629 | 32 | 728)
+[31May2025 02:33:23.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (629 | 32 | 728)
+[31May2025 02:33:23.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (624 | 32 | 728)
+[31May2025 02:33:23.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (624 | 32 | 728)
+[31May2025 02:33:23.001] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (631 | 32 | 724)
+[31May2025 02:33:23.006] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (631 | 32 | 724)
+[31May2025 02:33:23.007] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:23.008] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (620 | 5 | 731)
+[31May2025 02:33:23.174] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (624 | 41 | 764)
+[31May2025 02:33:23.178] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (624 | 41 | 764)
+[31May2025 02:33:23.178] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (629 | 41 | 758)
+[31May2025 02:33:23.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (629 | 41 | 758)
+[31May2025 02:33:23.179] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 762)
+[31May2025 02:33:23.180] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (624 | 32 | 762)
+[31May2025 02:33:23.180] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (627 | 37 | 774)
+[31May2025 02:33:23.181] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (627 | 37 | 774)
+[31May2025 02:33:23.181] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (630 | 32 | 774)
+[31May2025 02:33:23.181] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (630 | 32 | 774)
+[31May2025 02:33:23.182] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation COUNTERCLOCKWISE_90 at (621 | 32 | 773)
+[31May2025 02:33:23.183] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=622, y=33, z=775}
+[31May2025 02:33:23.184] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation COUNTERCLOCKWISE_90 at (621 | 32 | 773)
+[31May2025 02:33:23.184] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (625 | 32 | 771)
+[31May2025 02:33:23.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (625 | 32 | 771)
+[31May2025 02:33:23.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (625 | 32 | 780)
+[31May2025 02:33:23.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (625 | 32 | 780)
+[31May2025 02:33:23.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (634 | 14 | 766)
+[31May2025 02:33:23.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (634 | 14 | 766)
+[31May2025 02:33:23.187] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (634 | 14 | 766)
+[31May2025 02:33:23.187] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (634 | 14 | 766)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (635 | 20 | 782)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (635 | 20 | 782)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (635 | 20 | 782)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (635 | 20 | 782)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (635 | 14 | 771)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (635 | 14 | 771)
+[31May2025 02:33:23.188] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (635 | 14 | 771)
+[31May2025 02:33:23.189] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (635 | 14 | 771)
+[31May2025 02:33:23.191] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_90 at (629 | 13 | 776)
+[31May2025 02:33:23.192] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_90 at (629 | 13 | 776)
+[31May2025 02:33:23.195] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (629 | 13 | 776)
+[31May2025 02:33:23.201] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (629 | 13 | 776)
+[31May2025 02:33:23.203] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (628 | 5 | 781)
+[31May2025 02:33:23.203] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (628 | 5 | 781)
+[31May2025 02:33:23.203] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (611 | 5 | 776)
+[31May2025 02:33:23.205] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (611 | 5 | 776)
+[31May2025 02:33:23.205] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (633 | 5 | 780)
+[31May2025 02:33:23.206] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (633 | 5 | 780)
+[31May2025 02:33:39.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[31May2025 02:35:08.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 02:35:08.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 02:35:28.270] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[31May2025 02:36:31.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to elMoillinoYT]
+[31May2025 02:36:33.572] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-677}
+[31May2025 02:36:33.572] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-676}
+[31May2025 02:37:07.745] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 175.4 μs. 254/254 recipes are parallelized.
+[31May2025 02:38:33.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elMoillinoYT> perate
+[31May2025 02:40:08.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 02:40:08.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy

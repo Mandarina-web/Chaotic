@@ -1079,3 +1079,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 02:22:56.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [31May2025 02:25:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
 [31May2025 02:29:16.435] [Server thread/INFO] [fastsuite/]: Constructed recipe list for woodworks:sawing in 161.7 μs. 0/510 recipes are parallelized.
+[31May2025 02:33:23.183] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=622, y=33, z=775}
+[31May2025 02:36:31.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to elMoillinoYT]
+[31May2025 02:37:07.745] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 175.4 μs. 254/254 recipes are parallelized.
+[31May2025 02:38:33.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elMoillinoYT> perate
