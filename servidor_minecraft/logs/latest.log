@@ -1062,3 +1062,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 20:16:39.185] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.009 ms. 6024/6176 recipes are parallelized.
 [31May2025 20:26:31.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico moved too quickly! -0.7517409505428532,-10.642118422109903,0.951781913283412
 [31May2025 20:28:35.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Sweet Berry Pips] to UnGatoCalico]
+[31May2025 20:29:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 64 [Bone] to UnGatoCalico]
+[31May2025 20:35:12.984] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63431236[id=<null>,name=jeanpaul_xd,properties={},legacy=false] (/10.147.19.78:63286) lost connection: Disconnected
+[31May2025 20:35:28.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[31May2025 20:35:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[31May2025 20:35:28.442] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[31May2025 20:35:28.514] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 20:35:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 20:35:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 20:35:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 20:35:31.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[31May2025 20:35:31.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[31May2025 20:35:31.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[31May2025 20:35:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 20:35:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 20:35:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 20:35:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31May2025 20:35:31.881] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31May2025 20:35:31.884] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31May2025 20:35:31.886] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[31May2025 20:35:31.887] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[31May2025 20:35:31.889] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[31May2025 20:35:31.890] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31May2025 20:35:31.898] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
