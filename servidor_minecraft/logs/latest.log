@@ -1079,3 +1079,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 00:45:44.843] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 253.4 μs. 254/254 recipes are parallelized.
 [31May2025 00:48:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [31May2025 00:48:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 00:53:34.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to elMoillinoYT]
+[31May2025 00:55:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to elMoillinoYT]
+[31May2025 01:01:29.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Summoned new Goblin Trader]
