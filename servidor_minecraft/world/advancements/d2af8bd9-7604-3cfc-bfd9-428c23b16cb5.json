@@ -135,6 +135,7 @@
       "minecraft:stony_shore": "2025-05-22 00:02:56 +0000",
       "minecraft:dripstone_caves": "2025-05-22 02:00:50 +0000",
       "atmospheric:atmospheric:rainforest": "2025-05-21 23:48:00 +0000",
+      "minecraft:grove": "2025-05-31 22:40:15 +0000",
       "minecraft:forest": "2025-05-22 00:09:10 +0000",
       "minecraft:lush_caves": "2025-05-22 02:07:57 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-25 22:21:46 +0000",
@@ -9935,6 +9936,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-25 22:29:07 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_spike": {
+    "criteria": {
+      "has_item": "2025-05-31 22:38:17 +0000"
     },
     "done": true
   },
