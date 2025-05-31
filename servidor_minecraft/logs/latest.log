@@ -1200,3 +1200,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 22:41:17.580] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ad1db6f[id=<null>,name=ofuj_,properties={},legacy=false] (/10.147.19.181:55345) lost connection: Disconnected
 [31May2025 22:41:33.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74095983[id=<null>,name=ofuj_,properties={},legacy=false] (/10.147.19.181:55364) lost connection: Disconnected
 [31May2025 22:43:04.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> COMO REcupero el corazon q perdi
+[31May2025 22:44:32.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd lost connection: Disconnected
+[31May2025 22:44:32.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd left the game
+[31May2025 22:44:32.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jeanpaul_xd
+[31May2025 22:45:44.984] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 154.9 μs. 0/336 recipes are parallelized.
+[31May2025 22:48:15.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[31May2025 22:48:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[31May2025 22:48:15.319] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[31May2025 22:48:32.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:51694] logged in with entity id 29543 at (-397.6562331150956, 95.0, -654.2584295506786)
+[31May2025 22:48:32.328] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[31May2025 22:48:32.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[31May2025 22:48:32.424] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[31May2025 22:48:32.427] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[31May2025 22:48:32.450] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[31May2025 22:48:32.783] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[31May2025 22:48:32.786] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[31May2025 22:48:37.145] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[31May2025 22:48:37.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[31May2025 22:48:38.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[31May2025 22:48:38.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[31May2025 22:50:36.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 22:50:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 22:50:36.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 22:50:38.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[31May2025 22:50:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[31May2025 22:50:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[31May2025 22:50:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 22:50:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 22:50:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 22:50:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31May2025 22:50:40.257] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31May2025 22:50:40.258] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31May2025 22:50:40.259] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[31May2025 22:50:40.259] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[31May2025 22:50:40.259] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[31May2025 22:50:40.259] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31May2025 22:50:40.266] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

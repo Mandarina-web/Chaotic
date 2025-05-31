@@ -18357,5 +18357,167 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/pomegranate_pork_from_hoglin": {
+    "criteria": {
+      "has_raw_hoglin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/hotdog": {
+    "criteria": {
+      "has_sausage": "2025-05-31 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_from_smoking": {
+    "criteria": {
+      "hoglin_sausage": "2025-05-31 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/sausage_and_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_cooking": {
+    "criteria": {
+      "hoglin_sausage": "2025-05-31 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sausage": "2025-05-31 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/bacon_wrapped_sausage_stick": {
+    "criteria": {
+      "has_sausage": "2025-05-31 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 22:50:32 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
