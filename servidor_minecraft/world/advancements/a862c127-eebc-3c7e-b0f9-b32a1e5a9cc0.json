@@ -9156,6 +9156,8 @@
     "criteria": {
       "cabbage": "2025-05-22 01:54:57 +0000",
       "glow_berries": "2025-05-24 05:21:33 +0000",
+      "onion": "2025-05-31 18:55:36 +0000",
+      "tomato": "2025-05-31 18:56:31 +0000",
       "kelp": "2025-05-24 09:09:54 +0000",
       "beetroot": "2025-05-31 03:08:44 +0000",
       "potato": "2025-05-31 03:16:35 +0000",
@@ -17708,6 +17710,24 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-05-31 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-05-31 18:56:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-05-31 18:56:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-31 18:56:34 +0000"
     },
     "done": true
   },
