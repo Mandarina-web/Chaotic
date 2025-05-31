@@ -1070,3 +1070,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 18:54:00.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
 [31May2025 18:55:51.003] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 7.373 ms. 6024/6176 recipes are parallelized.
 [31May2025 18:58:25.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 19:04:31.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[31May2025 19:06:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Rice] to UnGatoCalico]
+[31May2025 19:08:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 19:10:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]

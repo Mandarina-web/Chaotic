@@ -9159,6 +9159,7 @@
       "onion": "2025-05-31 18:55:36 +0000",
       "tomato": "2025-05-31 18:56:31 +0000",
       "kelp": "2025-05-24 09:09:54 +0000",
+      "rice": "2025-05-31 19:06:42 +0000",
       "beetroot": "2025-05-31 03:08:44 +0000",
       "potato": "2025-05-31 03:16:35 +0000",
       "wheat": "2025-05-23 23:53:28 +0000",
@@ -17722,6 +17723,24 @@
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-05-31 18:56:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-05-31 19:01:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-05-31 19:06:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-05-31 18:59:36 +0000"
     },
     "done": true
   },
