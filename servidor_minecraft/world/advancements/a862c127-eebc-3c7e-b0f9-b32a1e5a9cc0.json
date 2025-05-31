@@ -17754,6 +17754,12 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/strawberry_jam_bun": {
+    "criteria": {
+      "has_strawberries": "2025-05-31 19:58:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
       "harvest_ropelogged_tomato": "2025-05-31 19:01:24 +0000"
@@ -17763,6 +17769,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-05-31 19:06:42 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/food/strawberry_cookie": {
+    "criteria": {
+      "has_strawberries": "2025-05-31 19:58:51 +0000"
     },
     "done": true
   },
