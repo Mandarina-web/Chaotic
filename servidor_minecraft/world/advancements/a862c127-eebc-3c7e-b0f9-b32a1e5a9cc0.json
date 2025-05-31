@@ -9157,6 +9157,7 @@
       "cabbage": "2025-05-22 01:54:57 +0000",
       "glow_berries": "2025-05-24 05:21:33 +0000",
       "kelp": "2025-05-24 09:09:54 +0000",
+      "beetroot": "2025-05-31 03:08:44 +0000",
       "wheat": "2025-05-23 23:53:28 +0000",
       "carrot": "2025-05-24 00:06:47 +0000"
     },
@@ -17670,6 +17671,42 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-05-31 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/cooking/roasted_beetroot_from_campfire_cooking": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/cooking/roasted_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/cooking/roasted_beetroot_from_smoking": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:09:04 +0000"
     },
     "done": true
   },

@@ -15275,3 +15275,86 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 03:00:33.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of UnGatoCalico: {disabled=false, disconnected=false, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
 [31May2025 03:01:11.581] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
 [31May2025 03:01:19.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported 82 entities to UnGatoCalico]
+[31May2025 03:05:08.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 03:05:08.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 03:05:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported 94 entities to UnGatoCalico]
+[31May2025 03:06:13.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[31May2025 03:06:13.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[31May2025 03:06:13.261] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to UnGatoCalico
+[31May2025 03:06:13.261] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with UnGatoCalico
+[31May2025 03:06:13.261] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with UnGatoCalico
+[31May2025 03:06:13.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[31May2025 03:06:13.261] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 to disconnected: {disabled=false, disconnected=true, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[31May2025 03:06:13.262] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.262] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.262] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.262] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.262] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.277] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.278] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.281] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.289] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.290] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.290] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.291] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.291] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.297] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.298] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.298] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.299] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.299] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.300] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.301] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.302] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.302] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.307] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.308] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.310] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /10.147.19.193:61190
+[31May2025 03:06:13.599] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of UnGatoCalico: {disabled=false, disconnected=true, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[31May2025 03:06:14.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[31May2025 03:06:15.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[31May2025 03:06:15.506] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of UnGatoCalico to connected: {disabled=false, disconnected=false, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[31May2025 03:06:15.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[31May2025 03:06:15.633] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of UnGatoCalico: {disabled=false, disconnected=false, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[31May2025 03:06:35.581] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[31May2025 03:07:50.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Beetroot Seeds] to UnGatoCalico]
+[31May2025 03:09:45.269] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[31May2025 03:10:08.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[31May2025 03:10:08.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[31May2025 03:11:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gamerule randomTickSpeed is now set to: 50]
