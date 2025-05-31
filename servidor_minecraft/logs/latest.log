@@ -1097,3 +1097,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31May2025 01:14:53.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 2 [Honey Bottle] to UnGatoCalico]
 [31May2025 01:21:21.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [Wax Off]
 [31May2025 01:21:37.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[31May2025 01:27:15.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c timed out
+[31May2025 01:27:15.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elMoillinoYT
+[31May2025 01:27:15.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elMoillinoYT
+[31May2025 01:27:15.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[31May2025 01:27:16.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d22ddbf4-0674-3a8e-993a-4e6c21c86d5c
+[31May2025 01:27:16.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elMoillinoYT (d22ddbf4-0674-3a8e-993a-4e6c21c86d5c) successfully connected to voice chat
