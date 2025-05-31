@@ -16528,5 +16528,126 @@
     },
     "done": true
   },
+  "cookielicious:recipes/food/mint_cookie": {
+    "criteria": {
+      "has_mint_leaves": "2025-05-31 20:49:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-31 20:50:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 20:50:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-31 20:50:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-05-31 20:50:53 +0000",
+      "onion": "2025-05-31 20:50:39 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 20:50:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-05-31 20:50:51 +0000"
+    },
+    "done": true
+  },
+  "wan_ancient_beasts:recipes/building_blocks/straw_block": {
+    "criteria": {
+      "has_wheat": "2025-05-31 20:51:00 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/jade_block": {
+    "criteria": {
+      "has_jade": "2025-05-31 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/tools/smithing/jade_shield": {
+    "criteria": {
+      "has_jade": "2025-05-31 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:adventure/polish_jade": {
+    "criteria": {
+      "polished_jade": "2025-05-31 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/tools/smithing/jade_horse_armor": {
+    "criteria": {
+      "has_jade": "2025-05-31 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/spinel": {
+    "criteria": {
+      "has_spinel_block": "2025-05-31 21:00:08 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_hull": {
+    "criteria": {
+      "has_item": "2025-05-31 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-05-31 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-31 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_ingot_from_silver_block": {
+    "criteria": {
+      "has_silver_block": "2025-05-31 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_bark": {
+    "criteria": {
+      "has_item": "2025-05-31 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "species:recipes/bone_vertebra": {
+    "criteria": {
+      "has_item": "2025-05-31 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:recipes/building_blocks/crafting/throwing_knife": {
+    "criteria": {
+      "has_piranha_tooth": "2025-05-31 22:03:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

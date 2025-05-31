@@ -1812,6 +1812,7 @@
       "melon_slice": "2025-05-31 01:24:59 +0000",
       "neapolitan:strawberries": "2025-05-25 14:18:36 +0000",
       "abnormals_delight:dumplings": "2025-05-29 02:50:27 +0000",
+      "sullysmod:cooked_piranha": "2025-05-31 22:03:43 +0000",
       "atmospheric:passion_fruit": "2025-05-28 22:43:41 +0000",
       "mushroom_stew": "2025-05-30 02:40:43 +0000",
       "abnormals_delight:vegetable_noodles": "2025-05-31 00:02:06 +0000",
@@ -1821,6 +1822,7 @@
       "potato": "2025-05-25 13:33:36 +0000",
       "bread": "2025-05-25 11:55:37 +0000",
       "rotten_flesh": "2025-05-25 11:27:34 +0000",
+      "cod": "2025-05-31 22:04:35 +0000",
       "abnormals_delight:cabbage_rolls": "2025-05-30 02:14:38 +0000",
       "beetroot": "2025-05-25 16:02:19 +0000",
       "carrot": "2025-05-25 11:28:17 +0000"
@@ -10068,77 +10070,53 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sullysmod:recipes/building_blocks/crafting/throwing_knife": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_piranha_tooth": "2025-05-31 22:03:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_photograph": "2025-05-31 22:03:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "exposure:recipes/copying_color_photograph": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_photograph": "2025-05-31 22:03:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "brewinandchewin:recipes/fermenting/kippers": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_fish": "2025-05-31 22:04:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_cod": "2025-05-31 22:04:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_cod": "2025-05-31 22:04:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "has_cod": "2025-05-31 22:04:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "gnumus:fatty_demon": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
+      "fatty_demon": "2025-05-31 22:18:15 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 02:44:08 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
