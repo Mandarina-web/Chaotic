@@ -1060,3 +1060,88 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 02:27:57.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41977ms or 839 ticks behind
 [01Jun2025 02:32:32.655] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cooking in 488.2 μs. 0/143 recipes are parallelized.
 [01Jun2025 02:34:04.723] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.143 ms. 6024/6176 recipes are parallelized.
+[01Jun2025 02:39:17.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ofuj_[/10.147.19.181:60542] logged in with entity id 9938 at (-501.36212851935505, 80.85489329934836, 1045.6287623610099)
+[01Jun2025 02:39:17.131] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ofuj_
+[01Jun2025 02:39:17.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ joined the game
+[01Jun2025 02:39:17.279] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ofuj_'
+[01Jun2025 02:39:17.286] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ofuj_'
+[01Jun2025 02:39:17.346] [Server thread/INFO] [Jade/]: Syncing config to ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5)
+[01Jun2025 02:39:18.109] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ofuj_ (18)
+[01Jun2025 02:39:18.112] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ofuj_
+[01Jun2025 02:39:19.168] [Server thread/INFO] [do_a_barrel_roll/]: Client of ofuj_ accepted server config.
+[01Jun2025 02:39:19.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[01Jun2025 02:39:20.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[01Jun2025 02:39:20.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5) successfully connected to voice chat
+[01Jun2025 02:39:28.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> eu
+[01Jun2025 02:39:39.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> contexto de q ha pasado en estas 2 horas q me fui
+[01Jun2025 02:39:56.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> XD
+[01Jun2025 02:39:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> pos
+[01Jun2025 02:39:58.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> dc
+[01Jun2025 02:40:02.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> estoy en dc
+[01Jun2025 02:40:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> pero sin micro
+[01Jun2025 02:40:07.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> habla p
+[01Jun2025 02:40:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> ptmr
+[01Jun2025 02:40:11.384] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:40:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> explica
+[01Jun2025 02:40:16.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> no lo cargaste?
+[01Jun2025 02:40:25.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> lo deje prendido desde q me fui jsjsj
+[01Jun2025 02:40:29.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> :V
+[01Jun2025 02:40:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> mataron al boss?
+[01Jun2025 02:40:36.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> fuimos a una dungeon
+[01Jun2025 02:40:41.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> aja
+[01Jun2025 02:40:41.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> y matamos a otro boss
+[01Jun2025 02:40:45.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> :v
+[01Jun2025 02:40:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> no al q ivamosa ir
+[01Jun2025 02:40:50.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> otro
+[01Jun2025 02:40:50.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> a
+[01Jun2025 02:40:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> pero tienen cosas q sobren?
+[01Jun2025 02:41:06.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> nos dejo un casco indestructible
+[01Jun2025 02:41:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> a
+[01Jun2025 02:41:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> nd mas?
+[01Jun2025 02:41:14.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:56084] logged in with entity id 13307 at (-164.82839846625225, 65.39377968791523, 1439.445018778098)
+[01Jun2025 02:41:14.102] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[01Jun2025 02:41:14.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[01Jun2025 02:41:14.408] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[01Jun2025 02:41:14.410] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[01Jun2025 02:41:14.432] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[01Jun2025 02:41:14.728] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[01Jun2025 02:41:14.728] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[01Jun2025 02:41:15.561] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:41:15.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> y un hacha de los mil metales
+[01Jun2025 02:41:19.912] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[01Jun2025 02:41:20.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 02:41:21.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 02:41:21.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[01Jun2025 02:41:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> suena a q es mejor q el diamante
+[01Jun2025 02:41:38.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> mil metales
+[01Jun2025 02:41:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> el hierro es solo 1 metal
+[01Jun2025 02:42:01.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Jun2025 02:42:02.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> de todas formas compartan muchachos
+[01Jun2025 02:42:07.321] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5, y=89, z=-58}
+[01Jun2025 02:42:07.324] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=89, z=-56}
+[01Jun2025 02:42:07.346] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=89, z=-54}
+[01Jun2025 02:42:07.348] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[01Jun2025 02:42:20.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3837ms or 76 ticks behind
+[01Jun2025 02:42:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> xd
+[01Jun2025 02:42:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> fue p
+[01Jun2025 02:42:26.035] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:42:30.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> :V
+[01Jun2025 02:42:38.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
+[01Jun2025 02:42:43.807] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:brushable_block @ BlockPos{x=103, y=-26, z=1373} state Block{sullysmod:amber}[is_melted=false] invalid for ticking:
+[01Jun2025 02:42:59.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5851ms or 117 ticks behind
+[01Jun2025 02:43:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> gonzalon si ves esto pa cuando el sonic roboplast
+[01Jun2025 02:43:15.212] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16319, l='ServerLevel[Entropy]', x=-678.50, y=-3.00, z=793.50] as it would cause deadlock
+[01Jun2025 02:43:18.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3848ms or 76 ticks behind
+[01Jun2025 02:43:30.399] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-592, y=1, z=750}
+[01Jun2025 02:43:30.399] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-593, y=1, z=750}
+[01Jun2025 02:43:30.577] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16554, l='ServerLevel[Entropy]', x=-606.50, y=-28.00, z=748.50] as it would cause deadlock
+[01Jun2025 02:43:32.253] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16592, l='ServerLevel[Entropy]', x=-684.50, y=-28.00, z=745.50] as it would cause deadlock
+[01Jun2025 02:43:37.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4064ms or 81 ticks behind
+[01Jun2025 02:43:41.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> :U
+[01Jun2025 02:43:54.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> si lo digo hay ban?
+[01Jun2025 02:43:57.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01Jun2025 02:44:15.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[01Jun2025 02:44:30.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 🦔
+[01Jun2025 02:44:36.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
+[01Jun2025 02:44:40.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> interpreta estos simbolos
+[01Jun2025 02:44:54.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 🦔
