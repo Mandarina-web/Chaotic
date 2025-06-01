@@ -9264,6 +9264,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-01 02:12:09 +0000",
       "entered_stables": "2025-05-25 17:23:34 +0000",
       "entered_pillager_camp": "2025-05-25 10:15:44 +0000",
       "entered_flying_dutchman": "2025-05-23 22:52:32 +0000",

@@ -6104,6 +6104,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-01 02:12:02 +0000",
       "entered_ruined_building": "2025-05-25 14:47:55 +0000"
     },
     "done": false
@@ -10633,6 +10634,18 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_ladder_from_driftwood_planks_sawing": {
+    "criteria": {
+      "has_driftwood_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
@@ -10654,6 +10667,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },
@@ -10705,6 +10724,18 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_pressure_plate_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_door_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-01 01:03:34 +0000"
@@ -10714,6 +10745,12 @@
   "caverns_and_chasms:recipes/building_blocks/calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/upgrade_aquatic/sign_post_driftwood": {
+    "criteria": {
+      "has_item": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },
@@ -10783,6 +10820,18 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/decorations/driftwood_sign": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_button_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/skull_on_a_stick": {
     "criteria": {
       "item": "2025-06-01 01:41:14 +0000"
@@ -10792,6 +10841,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood": {
+    "criteria": {
+      "has_log": "2025-06-01 02:07:40 +0000"
     },
     "done": true
   },
@@ -10807,6 +10862,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_boards_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-01 02:02:23 +0000"
@@ -10819,9 +10880,21 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs_from_driftwood_planks_sawing": {
+    "criteria": {
+      "has_driftwood_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },
@@ -10834,6 +10907,18 @@
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_ladder_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
     },
     "done": true
   },
@@ -10855,6 +10940,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
@@ -10867,9 +10958,27 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/decorations/driftwood_sign_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_button_from_driftwood_planks_sawing": {
+    "criteria": {
+      "has_driftwood_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/calcite_button": {
     "criteria": {
       "has_thing": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_slab_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
     },
     "done": true
   },
@@ -10891,9 +11000,27 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/upgrade_aquatic/item_shelf_driftwood": {
+    "criteria": {
+      "has_item": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },
@@ -10912,6 +11039,12 @@
   "caverns_and_chasms:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
     },
     "done": true
   },
@@ -10948,6 +11081,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_slab_from_driftwood_planks_sawing": {
+    "criteria": {
+      "has_driftwood_planks": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },
@@ -10999,6 +11138,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/calcite_stairs": {
     "criteria": {
       "has_calcite": "2025-06-01 01:47:02 +0000"
@@ -11041,6 +11186,18 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_trapdoor_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-01 01:03:34 +0000"
@@ -11077,6 +11234,18 @@
     },
     "done": true
   },
+  "snowyspirit:recipes/decorations/upgrade_aquatic/sled_driftwood": {
+    "criteria": {
+      "has_item": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_fence_from_driftwood_planks_sawing": {
+    "criteria": {
+      "has_driftwood_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
@@ -11095,6 +11264,18 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_fence_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-06-01 02:07:40 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
@@ -11104,6 +11285,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },
@@ -11122,6 +11309,12 @@
   "caverns_and_chasms:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_boards_from_driftwood_planks_sawing": {
+    "criteria": {
+      "has_driftwood_planks": "2025-06-01 02:08:04 +0000"
     },
     "done": true
   },

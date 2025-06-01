@@ -1345,3 +1345,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 02:06:44.622] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smoking in 99.53 μs. 104/104 recipes are parallelized.
 [01Jun2025 02:06:46.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
 [01Jun2025 02:06:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
+[01Jun2025 02:10:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 16 [Golden Apple] to UnGatoCalico]
+[01Jun2025 02:10:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT was slain by jeanpaul_xd
+[01Jun2025 02:11:10.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
+[01Jun2025 02:11:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
+[01Jun2025 02:11:23.259] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
+[01Jun2025 02:11:25.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
+[01Jun2025 02:13:08.287] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:13:54.984] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:14:30.641] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:14:35.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to jeanpaul_xd]
+[01Jun2025 02:15:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Peace Was Never An Option]
+[01Jun2025 02:17:44.866] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5, y=89, z=-58}
+[01Jun2025 02:17:44.868] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=89, z=-56}
+[01Jun2025 02:17:45.028] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=89, z=-54}
+[01Jun2025 02:17:45.029] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
