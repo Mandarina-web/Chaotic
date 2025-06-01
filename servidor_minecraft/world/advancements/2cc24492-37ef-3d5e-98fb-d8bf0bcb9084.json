@@ -16971,6 +16971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-01 01:28:27 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/egg_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:21:08 +0000"
@@ -16980,6 +16986,18 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-06-01 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-01 01:28:27 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_nether_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-06-01 01:28:27 +0000"
     },
     "done": true
   },
@@ -17007,6 +17025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-01 01:28:27 +0000"
+    },
+    "done": true
+  },
   "hauntedharvest:nether/splatter_eggs_in_nether": {
     "criteria": {
       "unlock": "2025-06-01 01:21:10 +0000"
@@ -17022,6 +17046,12 @@
   "incubation:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "has_eggs": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-06-01 01:28:27 +0000"
     },
     "done": true
   },
@@ -17049,6 +17079,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-01 01:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-01 01:28:27 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/scotch_eggs": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:21:08 +0000"
@@ -17058,6 +17100,12 @@
   "mynethersdelight:recipes/cooking/strider_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-01 01:28:27 +0000"
     },
     "done": true
   },

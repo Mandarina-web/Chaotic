@@ -1309,3 +1309,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 01:11:22.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Not Today, Thank You]
 [01Jun2025 01:14:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported UnGatoCalico to jeanpaul_xd]
 [01Jun2025 01:21:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has made the advancement [Deviled Eggs]
+[01Jun2025 01:27:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> e dance
+[01Jun2025 01:32:28.172] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 0 ms
+[01Jun2025 01:32:39.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> gato
+[01Jun2025 01:33:43.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd moved too quickly! -9.968828547906966,-1.1698955406043012,0.08949012193897943
+[01Jun2025 01:35:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has made the advancement [Don't. Move.]
+[01Jun2025 01:35:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT was shot by Skeleton
+[01Jun2025 01:35:30.931] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
+[01Jun2025 01:36:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[01Jun2025 01:36:11.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
