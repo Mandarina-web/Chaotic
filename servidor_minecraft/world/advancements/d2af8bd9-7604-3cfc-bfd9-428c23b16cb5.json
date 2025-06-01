@@ -10435,5 +10435,101 @@
     },
     "done": true
   },
+  "berry_good:recipes/decorations/sweet_berry_basket": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "berry_good:recipes/food/sweet_berry_mince": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "berry_good:recipes/misc/sweet_berry_pips": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/glazed_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/sweet_berry_cake": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-06-01 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "mypersonaldelight:recipes/food/crafting/tear_popsicle": {
+    "criteria": {
+      "has_ghast": "2025-06-01 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-01 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-01 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/mixed_berry_muffin": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/sweet_berry_ice_cream": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/sweet_berry_vanilla_yogurt": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-01 02:46:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

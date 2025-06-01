@@ -142,6 +142,7 @@
       "atmospheric:atmospheric:rainforest": "2025-05-21 02:38:25 +0000",
       "minecraft:grove": "2025-05-23 00:27:23 +0000",
       "minecraft:jagged_peaks": "2025-05-23 00:27:30 +0000",
+      "minecraft:cold_ocean": "2025-06-01 02:45:43 +0000",
       "minecraft:forest": "2025-05-21 23:26:15 +0000",
       "minecraft:lush_caves": "2025-05-22 22:24:34 +0000",
       "environmental:environmental:pine_slopes": "2025-05-23 00:32:42 +0000",
@@ -17193,6 +17194,18 @@
   "caverns_and_chasms:recipes/decorations/cut_amethyst_brick_wall_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-06-01 01:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-06-01 02:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-01 02:48:15 +0000"
     },
     "done": true
   },

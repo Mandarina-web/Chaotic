@@ -1145,3 +1145,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 02:44:36.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5914ms or 118 ticks behind
 [01Jun2025 02:44:40.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> interpreta estos simbolos
 [01Jun2025 02:44:54.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 🦔
+[01Jun2025 02:44:55.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[01Jun2025 02:45:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> ⛈
+[01Jun2025 02:45:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> ⛈
+[01Jun2025 02:45:20.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9581ms or 191 ticks behind
+[01Jun2025 02:45:39.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[01Jun2025 02:45:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 🦔
+[01Jun2025 02:45:57.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[01Jun2025 02:46:14.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[01Jun2025 02:46:23.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/16911, l='ServerLevel[Entropy]', x=-776.23, y=71.00, z=910.69] died: Gunnarr was slain by ofuj_
+[01Jun2025 02:47:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> XD
+[01Jun2025 02:47:30.606] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=27, z=1574}
+[01Jun2025 02:47:30.608] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=27, z=1575}
+[01Jun2025 02:47:30.610] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=27, z=1575}
+[01Jun2025 02:47:30.611] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=288, y=27, z=1574}
+[01Jun2025 02:47:30.612] [Worker-Main-1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (288, 27, 1574)
+[01Jun2025 02:48:04.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[01Jun2025 02:48:16.341] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:48:20.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 💀
+[01Jun2025 02:48:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 💀
+[01Jun2025 02:49:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> mattos?
+[01Jun2025 02:49:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> amigazos?
+[01Jun2025 02:49:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> tus momos no dan risa
+[01Jun2025 02:49:28.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> >:C
+[01Jun2025 02:49:29.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> no es un momo...
+[01Jun2025 02:49:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> tu realidad no da risa
+[01Jun2025 02:49:40.881] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=408, y=-33, z=1757}
+[01Jun2025 02:49:40.881] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=407, y=-33, z=1757}
+[01Jun2025 02:49:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> >:c
+[01Jun2025 02:49:46.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> me encontre monos
+[01Jun2025 02:49:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> tampoco es realidad...
+[01Jun2025 02:49:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> le dare un orijen al sida
+[01Jun2025 02:50:04.448] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[01Jun2025 02:50:04.451] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=896, y=-43, z=800}
+[01Jun2025 02:50:13.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[01Jun2025 02:50:14.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=343, y=-5, z=1844}
+[01Jun2025 02:50:14.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=342, y=-5, z=1844}
+[01Jun2025 02:53:18.270] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
