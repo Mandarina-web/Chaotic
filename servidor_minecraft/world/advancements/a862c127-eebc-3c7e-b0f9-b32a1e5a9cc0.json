@@ -18892,6 +18892,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-06-01 08:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-06-01 08:42:15 +0000"
