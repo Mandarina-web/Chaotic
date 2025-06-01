@@ -3087,6 +3087,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-22 22:56:44 +0000",
+      "caverns_and_chasms:deeper": "2025-06-01 01:42:37 +0000",
       "savage_and_ravage:creepie": "2025-05-26 05:19:06 +0000",
       "savage_and_ravage:executioner": "2025-05-25 14:01:34 +0000",
       "caverns_and_chasms:peeper": "2025-05-24 00:42:17 +0000",
@@ -18550,6 +18551,12 @@
   "mynethersdelight:recipes/cooking/twisted_ghasta": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-06-01 01:50:15 +0000"
     },
     "done": true
   },

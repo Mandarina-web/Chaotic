@@ -1318,3 +1318,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 01:35:30.931] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
 [01Jun2025 01:36:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [01Jun2025 01:36:11.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 01:37:21.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd moved too quickly! 0.0,-10.188594643186814,0.0
+[01Jun2025 01:38:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Adventure Mode]
+[01Jun2025 01:38:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Spectator Mode]
+[01Jun2025 01:38:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[01Jun2025 01:38:51.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 01:39:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to jeanpaul_xd]
+[01Jun2025 01:39:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> me acaba de salir una barra de boss
+[01Jun2025 01:40:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT has made the advancement [Amateur Archaeologist]
+[01Jun2025 01:42:03.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> yo llegare primero y me quedare con todo el loot
+[01Jun2025 01:42:07.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> >:D
+[01Jun2025 01:42:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> mato
+[01Jun2025 01:43:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has made the advancement [Chest Slayer]
+[01Jun2025 01:44:47.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Adventure Mode]
+[01Jun2025 01:44:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Spectator Mode]
+[01Jun2025 01:44:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Adventure Mode]
+[01Jun2025 01:44:56.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 01:46:04.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported jeanpaul_xd to UnGatoCalico]
+[01Jun2025 01:46:13.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to jeanpaul_xd]
+[01Jun2025 01:47:38.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 1 [Color Film] to UnGatoCalico]
+[01Jun2025 01:50:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has completed the challenge [Just a Flesh Wound]
+[01Jun2025 01:51:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 2 [Ferrous Nectar] to UnGatoCalico]
+[01Jun2025 01:52:35.584] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 0 ms
+[01Jun2025 01:56:28.721] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 0 ms
