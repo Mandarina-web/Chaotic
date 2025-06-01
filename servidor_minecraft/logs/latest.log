@@ -1076,3 +1076,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 06:51:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
 [01Jun2025 06:51:57.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [01Jun2025 06:52:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 07:00:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported 436 entities to UnGatoCalico]
+[01Jun2025 07:01:15.757] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 131.9 μs. 0/336 recipes are parallelized.
