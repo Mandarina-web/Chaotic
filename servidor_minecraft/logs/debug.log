@@ -14903,3 +14903,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 23:16:41.498] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of UnGatoCalico: {disabled=false, disconnected=false, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
 [01Jun2025 23:18:51.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
 [01Jun2025 23:18:52.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 23:23:52.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[01Jun2025 23:23:52.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 23:24:32.819] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[01Jun2025 23:26:00.475] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[01Jun2025 23:26:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [The internet is for...]
+[01Jun2025 23:27:14.528] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -664 of size 5x3
+[01Jun2025 23:28:47.457] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[01Jun2025 23:28:53.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[01Jun2025 23:28:53.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 23:28:58.078] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
+[01Jun2025 23:28:58.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Jun2025 23:29:03.525] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -659 of size 6x4
+[01Jun2025 23:29:15.876] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -664 of size 6x4
+[01Jun2025 23:29:22.842] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
+[01Jun2025 23:29:36.435] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -664 of size 6x4
+[01Jun2025 23:29:38.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Jun2025 23:29:41.528] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
+[01Jun2025 23:30:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 23:30:49.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind

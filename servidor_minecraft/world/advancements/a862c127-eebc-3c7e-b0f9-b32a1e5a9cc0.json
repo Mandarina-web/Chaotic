@@ -19438,6 +19438,12 @@
     },
     "done": true
   },
+  "webdisplays:screen": {
+    "criteria": {
+      "has_screen": "2025-06-01 23:26:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
     "criteria": {
       "has_pink_dye": "2025-06-01 23:10:09 +0000"

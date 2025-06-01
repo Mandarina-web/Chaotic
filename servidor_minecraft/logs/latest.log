@@ -1163,3 +1163,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 23:16:40.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
 [01Jun2025 23:16:41.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
 [01Jun2025 23:16:41.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[01Jun2025 23:26:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [The internet is for...]
+[01Jun2025 23:27:14.528] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -664 of size 5x3
+[01Jun2025 23:28:58.078] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
+[01Jun2025 23:28:58.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Jun2025 23:29:03.525] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -659 of size 6x4
+[01Jun2025 23:29:15.876] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -664 of size 6x4
+[01Jun2025 23:29:22.842] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
+[01Jun2025 23:29:36.435] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created a screen at X: -380, Y: 98, Z: -664 of size 6x4
+[01Jun2025 23:29:38.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Jun2025 23:29:41.528] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
+[01Jun2025 23:30:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 23:30:49.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
