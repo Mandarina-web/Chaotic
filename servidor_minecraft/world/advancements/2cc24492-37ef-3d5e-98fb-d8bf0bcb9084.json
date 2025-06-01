@@ -16701,77 +16701,293 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "caverns_and_chasms:recipes/combat/sanguine_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_living_flesh": "2025-05-31 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/sanguine_block": {
+    "criteria": {
+      "has_living_flesh": "2025-05-31 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/sanguine_tiles": {
+    "criteria": {
+      "has_living_flesh": "2025-05-31 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/sanguine_chestplate": {
+    "criteria": {
+      "has_living_flesh": "2025-05-31 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/sanguine_helmet": {
+    "criteria": {
+      "has_living_flesh": "2025-05-31 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/sanguine_boots": {
+    "criteria": {
+      "has_living_flesh": "2025-05-31 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-31 23:53:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 23:57:13 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "in_better_zombie_dungeon": "2025-05-31 23:57:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "species:recipes/bone_spike": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_item": "2025-05-31 23:58:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "junior_summoner_0": "2025-06-01 00:00:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "clayworks:recipes/building_blocks/cyan_terracotta_brick_stairs_from_cyan_terracotta_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "clayworks:recipes/building_blocks/cyan_terracotta_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "clayworks:recipes/building_blocks/cyan_terracotta_bricks_from_cyan_terracotta_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "clayworks:recipes/building_blocks/cyan_terracotta_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "clayworks:recipes/decorations/cyan_terracotta_brick_wall_from_cyan_terracotta_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "clayworks:recipes/decorations/cyan_terracotta_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "clayworks:recipes/building_blocks/cyan_terracotta_brick_slab_from_cyan_terracotta_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/chiseled_cyan_terracotta_bricks_from_cyan_terracotta_stonecutting": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/cyan_terracotta_wall_from_cyan_terracotta_stonecutting": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/cyan_glazed_terracotta_from_baking": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cyan_terracotta_slab_from_cyan_terracotta_stonecutting": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cyan_terracotta_stairs_from_cyan_terracotta_stonecutting": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cyan_terracotta_stairs": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-01 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-06-01 00:18:25 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_boards": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-01 00:18:25 +0000"
+    },
+    "done": true
+  },
+  "cnc:turkey_advancement": {
+    "criteria": {
+      "turkey_advancement_0": "2025-06-01 00:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/red_nether_bricks_cabinet": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/nether_bricks_cabinet": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/nether_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_nether_bricks_from_baking": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-06-01 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/twisted_ghasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

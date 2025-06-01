@@ -2097,6 +2097,7 @@
       "suspicious_stew": "2025-05-23 20:54:01 +0000",
       "neapolitan:chocolate_spider_eye": "2025-05-26 07:17:21 +0000",
       "rabbit_stew": "2025-05-21 22:28:34 +0000",
+      "abnormals_delight:tomato": "2025-05-31 23:49:16 +0000",
       "abnormals_delight:cooked_rice": "2025-05-31 19:17:41 +0000",
       "abnormals_delight:cooked_chicken_cuts": "2025-05-29 03:22:41 +0000",
       "abnormals_delight:tomato_sauce": "2025-05-31 19:15:23 +0000",
@@ -2126,6 +2127,7 @@
       "bread": "2025-05-21 22:22:12 +0000",
       "golden_apple": "2025-05-23 21:08:11 +0000",
       "rotten_flesh": "2025-05-21 20:48:58 +0000",
+      "dried_kelp": "2025-06-01 00:33:53 +0000",
       "cod": "2025-05-25 07:16:53 +0000",
       "cooked_salmon": "2025-05-21 04:23:08 +0000",
       "abnormals_delight:cake_slice": "2025-05-23 07:28:58 +0000",
@@ -18449,77 +18451,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "infinitybuttons:recipe/redstone/cracked_nether_brick_secret_button": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
+      "has_thing": "2025-05-31 22:58:26 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 23:28:39 +0000"
-    },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
@@ -18527,9 +18463,45 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/cracked_nether_brick_secret_button": {
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
-      "has_thing": "2025-05-31 22:58:26 +0000"
+      "has_item": "2025-06-01 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-01 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/nether_brick_from_baking": {
+    "criteria": {
+      "has_netherrack": "2025-06-01 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/twisted_ghasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-01 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:01:00 +0000"
     },
     "done": true
   },
