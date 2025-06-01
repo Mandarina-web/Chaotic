@@ -1258,3 +1258,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 09:20:10.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
 [01Jun2025 09:20:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
 [01Jun2025 09:20:10.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[01Jun2025 09:25:26.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 09:25:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 09:25:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 09:25:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 09:25:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[01Jun2025 09:25:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[01Jun2025 09:25:26.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 09:25:26.433] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Jun2025 09:25:26.435] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[01Jun2025 09:25:26.435] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[01Jun2025 09:25:26.436] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[01Jun2025 09:25:26.436] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Jun2025 09:25:26.438] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[01Jun2025 09:25:26.448] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

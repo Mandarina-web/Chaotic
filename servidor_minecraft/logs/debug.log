@@ -15006,3 +15006,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 09:20:11.094] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-676}
 [01Jun2025 09:22:00.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
 [01Jun2025 09:22:00.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 09:25:26.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 09:25:26.241] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[01Jun2025 09:25:26.241] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[01Jun2025 09:25:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 09:25:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 09:25:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 09:25:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[01Jun2025 09:25:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[01Jun2025 09:25:26.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[01Jun2025 09:25:26.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[01Jun2025 09:25:26.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 09:25:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 09:25:26.390] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[01Jun2025 09:25:26.390] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[01Jun2025 09:25:26.425] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[01Jun2025 09:25:26.425] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[01Jun2025 09:25:26.427] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[01Jun2025 09:25:26.427] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[01Jun2025 09:25:26.433] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Jun2025 09:25:26.435] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Chaotic/servidor_minecraft/config/refurbished_furniture.server.toml
+[01Jun2025 09:25:26.435] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[01Jun2025 09:25:26.435] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Chaotic/servidor_minecraft/config/backpacked-common.toml
+[01Jun2025 09:25:26.435] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[01Jun2025 09:25:26.436] [Server thread/DEBUG] [Framework/]: Stopped watching config: ./world/serverconfig/backpacked-server.toml
+[01Jun2025 09:25:26.436] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[01Jun2025 09:25:26.436] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/Chaotic/servidor_minecraft/config/goblintraders-entities.toml
+[01Jun2025 09:25:26.436] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Jun2025 09:25:26.438] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[01Jun2025 09:25:26.438] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[01Jun2025 09:25:26.438] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[01Jun2025 09:25:26.448] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
