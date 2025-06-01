@@ -1068,3 +1068,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 06:38:57.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-433, y=68, z=-524} BlockPos{x=-432, y=68, z=-523}
 [01Jun2025 06:39:11.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [01Jun2025 06:40:52.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 06:44:44.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Applied effect Saturation to UnGatoCalico]
+[01Jun2025 06:46:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Applied effect Surge of Energy to UnGatoCalico]
+[01Jun2025 06:47:06.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-416, y=66, z=-532} BlockPos{x=-418, y=66, z=-531}
+[01Jun2025 06:47:06.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-416, y=66, z=-532} BlockPos{x=-418, y=66, z=-531}
+[01Jun2025 06:50:30.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[01Jun2025 06:51:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 06:51:57.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[01Jun2025 06:52:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
