@@ -1078,3 +1078,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 06:52:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
 [01Jun2025 07:00:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported 436 entities to UnGatoCalico]
 [01Jun2025 07:01:15.757] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 131.9 μs. 0/336 recipes are parallelized.
+[01Jun2025 07:10:49.112] [Server thread/INFO] [fastsuite/]: Constructed recipe list for woodworks:sawing in 195.3 μs. 0/510 recipes are parallelized.
+[01Jun2025 07:11:29.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-282, y=86, z=-746} BlockPos{x=-413, y=64, z=-594}
