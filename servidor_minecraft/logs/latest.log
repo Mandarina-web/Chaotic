@@ -1175,3 +1175,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 23:29:41.528] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=LfOa_eKd2lk
 [01Jun2025 23:30:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
 [01Jun2025 23:30:49.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[01Jun2025 23:31:59.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Jun2025 23:32:51.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Jun2025 23:33:49.217] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[01Jun2025 23:33:49.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[01Jun2025 23:33:49.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[01Jun2025 23:34:04.303] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 has timed out!
+[01Jun2025 23:34:11.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01Jun2025 23:34:36.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[01Jun2025 23:34:36.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[01Jun2025 23:34:36.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[01Jun2025 23:34:36.526] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 23:39:35.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnGatoCalico[/10.147.19.193:58724] logged in with entity id 7390 at (-383.5274867980254, 95.0, -659.4414477262691)
+[01Jun2025 23:39:35.063] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnGatoCalico
+[01Jun2025 23:39:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico joined the game
+[01Jun2025 23:39:35.155] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'UnGatoCalico'
+[01Jun2025 23:39:35.160] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'UnGatoCalico'
+[01Jun2025 23:39:35.227] [Server thread/INFO] [Jade/]: Syncing config to UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0)
+[01Jun2025 23:39:35.633] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnGatoCalico (18)
+[01Jun2025 23:39:35.634] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[01Jun2025 23:39:44.070] [Server thread/INFO] [do_a_barrel_roll/]: Client of UnGatoCalico accepted server config.
+[01Jun2025 23:39:44.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 23:39:44.535] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client with UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 authenticated successfully
+[01Jun2025 23:39:45.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 23:39:45.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[01Jun2025 23:39:45.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[01Jun2025 23:40:03.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[01Jun2025 23:40:17.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[01Jun2025 23:40:27.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9057ms or 181 ticks behind
+[01Jun2025 23:41:22.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Jun2025 23:41:38.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[01Jun2025 23:41:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[01Jun2025 23:41:38.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
