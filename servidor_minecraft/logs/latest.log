@@ -1182,3 +1182,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 02:50:14.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=343, y=-5, z=1844}
 [01Jun2025 02:50:14.143] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=342, y=-5, z=1844}
 [01Jun2025 02:53:18.270] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:55:41.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01Jun2025 02:57:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has made the advancement [Cobweb Entanglement]
+[01Jun2025 02:57:41.248] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 02:58:20.348] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:00:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> aea
+[01Jun2025 03:01:15.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ofuj_ lost connection: Disconnected
+[01Jun2025 03:01:15.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ left the game
+[01Jun2025 03:01:15.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ofuj_
+[01Jun2025 03:01:15.260] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:01:37.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ofuj_[/10.147.19.181:60636] logged in with entity id 28243 at (-800.6363385284521, 132.0, 948.5357539054739)
+[01Jun2025 03:01:37.089] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ofuj_
+[01Jun2025 03:01:37.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ joined the game
+[01Jun2025 03:01:37.159] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ofuj_'
+[01Jun2025 03:01:37.159] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ofuj_'
+[01Jun2025 03:01:37.193] [Server thread/INFO] [Jade/]: Syncing config to ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5)
+[01Jun2025 03:01:37.527] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ofuj_ (18)
+[01Jun2025 03:01:37.528] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ofuj_
+[01Jun2025 03:01:39.231] [Server thread/INFO] [do_a_barrel_roll/]: Client of ofuj_ accepted server config.
+[01Jun2025 03:01:39.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[01Jun2025 03:01:40.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[01Jun2025 03:01:40.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5) successfully connected to voice chat
+[01Jun2025 03:01:43.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> aea
+[01Jun2025 03:01:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> ufff
+[01Jun2025 03:01:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> encontre el pro tip
+[01Jun2025 03:02:01.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> me quda 1 porciento
+[01Jun2025 03:02:02.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> al salirme despawnea todo
+[01Jun2025 03:02:17.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> cel o laptop
+[01Jun2025 03:02:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jeanpaul_xd> cel
+[01Jun2025 03:02:27.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> a
+[01Jun2025 03:03:09.151] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:03:14.927] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1425, y=-16, z=1265}
+[01Jun2025 03:03:18.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
+[01Jun2025 03:03:18.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd moved too quickly! 7.317276276513894,6.773779683146856,0.9983663611683369
+[01Jun2025 03:03:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> a
+[01Jun2025 03:03:24.402] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:04:14.001] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1604, y=-16, z=1297}
+[01Jun2025 03:04:17.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Jun2025 03:04:17.241] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1640, y=10, z=1422}
+[01Jun2025 03:05:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has completed the challenge [Deception!]
