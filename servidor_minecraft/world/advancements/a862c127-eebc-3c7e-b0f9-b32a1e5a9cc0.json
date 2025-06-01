@@ -18928,21 +18928,279 @@
     },
     "done": true
   },
+  "atmospheric:recipes/misc/pink_dye_from_dragon_fruit": {
+    "criteria": {
+      "has_dragon_fruit": "2025-06-01 09:53:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-06-01 10:17:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-06-01 10:17:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-06-01 10:17:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-06-01 10:17:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_from_bag": {
+    "criteria": {
+      "has_rice_bag": "2025-06-01 10:17:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-06-01 10:18:25 +0000"
+    },
+    "done": true
+  },
+  "berry_good:recipes/food/sweet_berries": {
+    "criteria": {
+      "has_sweet_berry_basket": "2025-06-01 10:19:38 +0000"
+    },
+    "done": true
+  },
+  "berry_good:recipes/food/glow_berries": {
+    "criteria": {
+      "has_glow_berry_basket": "2025-06-01 10:19:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube_uncrafting": {
+    "criteria": {
+      "has_sugar_cube": "2025-06-01 10:22:38 +0000"
+    },
+    "done": true
+  },
+  "neapolitan:husbandry/place_all_chocolate_blocks": {
+    "criteria": {
+      "chocolate_block": "2025-06-01 10:24:24 +0000"
+    },
+    "done": false
+  },
+  "cookielicious:recipes/food/vanilla_cookie": {
+    "criteria": {
+      "has_dried_vanilla_pods": "2025-06-01 10:29:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-06-01 10:30:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-06-01 10:30:12 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/pumpkin_adzuki_stew": {
+    "criteria": {
+      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/pumpkin_cake": {
+    "criteria": {
+      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/pumpkin_ice_cream": {
+    "criteria": {
+      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/food/conditional/pumpkin_cookie": {
+    "criteria": {
+      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/strawberry_cookie_tiles": {
+    "criteria": {
+      "has_strawberry_cookie": "2025-06-01 10:40:04 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/vanilla_cookie_tiles": {
+    "criteria": {
+      "has_vanilla_cookie": "2025-06-01 10:41:58 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/conditional/pumpkin_cookie_tiles": {
+    "criteria": {
+      "has_pumpkin_cookie": "2025-06-01 10:42:22 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/conditional/honey_cookie_tiles": {
+    "criteria": {
+      "has_pumpkin_cookie": "2025-06-01 10:42:22 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/conditional/sweet_berry_cookie_tiles": {
+    "criteria": {
+      "has_sweet_berry_cookie": "2025-06-01 10:44:06 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/mint_cookie_tiles": {
+    "criteria": {
+      "has_mint_cookie": "2025-06-01 10:45:07 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/food/adzuki_cookie": {
+    "criteria": {
+      "has_roasted_adzuki_beans": "2025-06-01 10:46:34 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/adzuki_cookie_tiles": {
+    "criteria": {
+      "has_adzuki_cookie": "2025-06-01 10:46:43 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/banana_cookie_tiles": {
+    "criteria": {
+      "has_banana_cookie": "2025-06-01 10:47:20 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/beetroot_ice_cream": {
+    "criteria": {
+      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/red_velvet_cupcake": {
+    "criteria": {
+      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/beetroot_cake": {
+    "criteria": {
+      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/food/conditional/beetroot_cookie": {
+    "criteria": {
+      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/oxidized_beetroot": {
+    "criteria": {
+      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/conditional/beetroot_cookie_tiles": {
+    "criteria": {
+      "has_beetroot_cookie": "2025-06-01 10:50:21 +0000"
+    },
+    "done": true
+  },
+  "seasonals:recipes/food/crafting/chocolate_pumpkin_muffin": {
+    "criteria": {
+      "has_chocolate_bar": "2025-06-01 10:53:00 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/food/chocolate_cookie": {
+    "criteria": {
+      "has_chocolate_bar": "2025-06-01 10:53:00 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/chocolate_cookie_tiles": {
+    "criteria": {
+      "has_chocolate_cookie": "2025-06-01 10:53:32 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/syrup_bottle_from_campfire_cooking": {
+    "criteria": {
+      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/misc/sugar_from_sap_bottle": {
+    "criteria": {
+      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/syrup_bottle": {
+    "criteria": {
+      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/syrup_bottle_from_smoking": {
+    "criteria": {
+      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/building_blocks/sappy_maple_wood_from_sap_bottle": {
+    "criteria": {
+      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/building_blocks/sappy_maple_log_from_sap_bottle": {
+    "criteria": {
+      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/food/pancake": {
+    "criteria": {
+      "has_syrup_bottle": "2025-06-01 10:56:44 +0000"
+    },
+    "done": true
+  },
+  "cookielicious:recipes/building_blocks/conditional/maple_cookie_tiles": {
+    "criteria": {
+      "has_maple_cookie": "2025-06-01 10:56:53 +0000"
+    },
+    "done": true
+  },
+  "cnc:venomous_snakeadvancement": {
+    "criteria": {
+      "venomous_snakeadvancement_0": "2025-06-01 11:02:55 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/cherry_slab_from_cherry_logs_sawing": {
     "criteria": {
       "has_cherry_logs": "2025-06-01 11:07:43 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/building_blocks/conditional/cherry_cookie_tiles": {
-    "criteria": {
-      "has_cherry_cookie": "2025-06-01 11:09:29 +0000"
-    },
-    "done": true
-  },
-  "environmental:recipes/decorations/cherry_crate": {
-    "criteria": {
-      "has_cherries": "2025-06-01 11:07:55 +0000"
     },
     "done": true
   },
@@ -18958,63 +19216,9 @@
     },
     "done": true
   },
-  "autumnity:recipes/food/syrup_bottle_from_campfire_cooking": {
-    "criteria": {
-      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
-    },
-    "done": true
-  },
-  "autumnity:recipes/food/pancake": {
-    "criteria": {
-      "has_syrup_bottle": "2025-06-01 10:56:44 +0000"
-    },
-    "done": true
-  },
-  "cnc:venomous_snakeadvancement": {
-    "criteria": {
-      "venomous_snakeadvancement_0": "2025-06-01 11:02:55 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/building_blocks/adzuki_cookie_tiles": {
-    "criteria": {
-      "has_adzuki_cookie": "2025-06-01 10:46:43 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/decorations/cherry_sign_from_cherry_logs_sawing": {
     "criteria": {
       "has_cherry_logs": "2025-06-01 11:07:43 +0000"
-    },
-    "done": true
-  },
-  "autumnity:recipes/misc/sugar_from_sap_bottle": {
-    "criteria": {
-      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/pumpkin_adzuki_stew": {
-    "criteria": {
-      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
-    },
-    "done": true
-  },
-  "berry_good:recipes/food/glow_berries": {
-    "criteria": {
-      "has_glow_berry_basket": "2025-06-01 10:19:58 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/pumpkin_cake": {
-    "criteria": {
-      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-06-01 10:17:48 +0000"
     },
     "done": true
   },
@@ -19024,39 +19228,9 @@
     },
     "done": true
   },
-  "cookielicious:recipes/building_blocks/vanilla_cookie_tiles": {
-    "criteria": {
-      "has_vanilla_cookie": "2025-06-01 10:41:58 +0000"
-    },
-    "done": true
-  },
-  "autumnity:recipes/food/syrup_bottle": {
-    "criteria": {
-      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/food/vanilla_cookie": {
-    "criteria": {
-      "has_dried_vanilla_pods": "2025-06-01 10:29:04 +0000"
-    },
-    "done": true
-  },
-  "autumnity:recipes/food/syrup_bottle_from_smoking": {
-    "criteria": {
-      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-06-01 11:07:43 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/building_blocks/conditional/maple_cookie_tiles": {
-    "criteria": {
-      "has_maple_cookie": "2025-06-01 10:56:53 +0000"
     },
     "done": true
   },
@@ -19066,117 +19240,15 @@
     },
     "done": true
   },
-  "cookielicious:recipes/building_blocks/strawberry_cookie_tiles": {
-    "criteria": {
-      "has_strawberry_cookie": "2025-06-01 10:40:04 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/redstone/cherry_button_from_cherry_logs_sawing": {
     "criteria": {
       "has_cherry_logs": "2025-06-01 11:07:43 +0000"
     },
     "done": true
   },
-  "cookielicious:recipes/building_blocks/conditional/sweet_berry_cookie_tiles": {
-    "criteria": {
-      "has_sweet_berry_cookie": "2025-06-01 10:44:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cabbage": {
-    "criteria": {
-      "has_cabbage_crate": "2025-06-01 10:17:26 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/beetroot_ice_cream": {
-    "criteria": {
-      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
-    "criteria": {
-      "has_pumpkin_slice": "2025-06-01 10:30:12 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/building_blocks/conditional/pumpkin_cookie_tiles": {
-    "criteria": {
-      "has_pumpkin_cookie": "2025-06-01 10:42:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/tomato": {
-    "criteria": {
-      "has_tomato_crate": "2025-06-01 10:17:29 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/pumpkin_ice_cream": {
-    "criteria": {
-      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/red_velvet_cupcake": {
-    "criteria": {
-      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube_uncrafting": {
-    "criteria": {
-      "has_sugar_cube": "2025-06-01 10:22:38 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/building_blocks/banana_cookie_tiles": {
-    "criteria": {
-      "has_banana_cookie": "2025-06-01 10:47:20 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/beetroot_cake": {
-    "criteria": {
-      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/carrot_from_crate": {
-    "criteria": {
-      "has_carrot_crate": "2025-06-01 10:18:25 +0000"
-    },
-    "done": true
-  },
-  "autumnity:recipes/building_blocks/sappy_maple_wood_from_sap_bottle": {
-    "criteria": {
-      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/building_blocks/conditional/beetroot_cookie_tiles": {
-    "criteria": {
-      "has_beetroot_cookie": "2025-06-01 10:50:21 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/redstone/cherry_trapdoor_from_cherry_logs_sawing": {
     "criteria": {
       "has_cherry_logs": "2025-06-01 11:07:43 +0000"
-    },
-    "done": true
-  },
-  "seasonals:recipes/food/crafting/chocolate_pumpkin_muffin": {
-    "criteria": {
-      "has_chocolate_bar": "2025-06-01 10:53:00 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/food/adzuki_cookie": {
-    "criteria": {
-      "has_roasted_adzuki_beans": "2025-06-01 10:46:34 +0000"
     },
     "done": true
   },
@@ -19192,75 +19264,9 @@
     },
     "done": true
   },
-  "cookielicious:recipes/building_blocks/conditional/honey_cookie_tiles": {
-    "criteria": {
-      "has_pumpkin_cookie": "2025-06-01 10:42:22 +0000"
-    },
-    "done": true
-  },
-  "autumnity:recipes/building_blocks/sappy_maple_log_from_sap_bottle": {
-    "criteria": {
-      "has_sap_bottle": "2025-06-01 10:55:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beetroot_from_crate": {
-    "criteria": {
-      "has_beetroot_crate": "2025-06-01 10:17:13 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/food/conditional/pumpkin_cookie": {
-    "criteria": {
-      "has_pumpkin_puree": "2025-06-01 10:39:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_from_bag": {
-    "criteria": {
-      "has_rice_bag": "2025-06-01 10:17:55 +0000"
-    },
-    "done": true
-  },
-  "neapolitan:husbandry/place_all_chocolate_blocks": {
-    "criteria": {
-      "chocolate_block": "2025-06-01 10:24:24 +0000"
-    },
-    "done": false
-  },
-  "cookielicious:recipes/building_blocks/mint_cookie_tiles": {
-    "criteria": {
-      "has_mint_cookie": "2025-06-01 10:45:07 +0000"
-    },
-    "done": true
-  },
-  "berry_good:recipes/food/sweet_berries": {
-    "criteria": {
-      "has_sweet_berry_basket": "2025-06-01 10:19:38 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/food/conditional/beetroot_cookie": {
-    "criteria": {
-      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
-    },
-    "done": true
-  },
-  "atmospheric:recipes/misc/pink_dye_from_dragon_fruit": {
-    "criteria": {
-      "has_dragon_fruit": "2025-06-01 09:53:43 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/decorations/cherry_ladder_from_cherry_logs_sawing": {
     "criteria": {
       "has_cherry_logs": "2025-06-01 11:07:43 +0000"
-    },
-    "done": true
-  },
-  "cookielicious:recipes/food/chocolate_cookie": {
-    "criteria": {
-      "has_chocolate_bar": "2025-06-01 10:53:00 +0000"
     },
     "done": true
   },
@@ -19276,21 +19282,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+  "environmental:recipes/decorations/cherry_crate": {
     "criteria": {
-      "has_pumpkin_slice": "2025-06-01 10:30:12 +0000"
+      "has_cherries": "2025-06-01 11:07:55 +0000"
     },
     "done": true
   },
-  "cookielicious:recipes/building_blocks/chocolate_cookie_tiles": {
+  "cookielicious:recipes/building_blocks/conditional/cherry_cookie_tiles": {
     "criteria": {
-      "has_chocolate_cookie": "2025-06-01 10:53:32 +0000"
+      "has_cherry_cookie": "2025-06-01 11:09:29 +0000"
     },
     "done": true
   },
-  "seasonals:recipes/food/crafting/oxidized_beetroot": {
+  "etched:recipes/decorations/album_jukebox": {
     "criteria": {
-      "has_roasted_beetroot": "2025-06-01 10:50:15 +0000"
+      "has_jukebox": "2025-06-01 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-01 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2025-06-01 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-06-01 22:44:39 +0000"
     },
     "done": true
   },
