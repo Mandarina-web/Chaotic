@@ -9176,6 +9176,7 @@
       "kelp": "2025-05-24 09:09:54 +0000",
       "rice": "2025-05-31 19:06:42 +0000",
       "beetroot": "2025-05-31 03:08:44 +0000",
+      "sugar_cane": "2025-06-01 08:45:27 +0000",
       "potato": "2025-05-31 03:16:35 +0000",
       "wheat": "2025-05-23 23:53:28 +0000",
       "melon": "2025-06-01 08:35:57 +0000",
@@ -18882,6 +18883,18 @@
   "create:recipes/misc/crafting/schematics/schematicannon": {
     "criteria": {
       "has_item": "2025-06-01 07:47:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-01 08:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-01 08:42:15 +0000"
     },
     "done": true
   },
