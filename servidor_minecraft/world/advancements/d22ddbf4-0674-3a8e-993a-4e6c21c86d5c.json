@@ -10760,6 +10760,12 @@
     },
     "done": true
   },
+  "cnc:gooseadvancement": {
+    "criteria": {
+      "gooseadvancement_0": "2025-06-01 02:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-01 02:02:23 +0000"
