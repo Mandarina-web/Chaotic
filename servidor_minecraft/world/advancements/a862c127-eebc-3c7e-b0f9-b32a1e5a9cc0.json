@@ -18493,6 +18493,18 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-01 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/combat/kunai": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-01 01:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-06-01 01:01:00 +0000"

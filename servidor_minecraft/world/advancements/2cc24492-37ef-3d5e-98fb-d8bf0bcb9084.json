@@ -16965,15 +16965,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-06-01 01:20:58 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:21 +0000"
     },
     "done": true
   },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/building_blocks/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "hauntedharvest:nether/splatter_eggs_in_nether": {
+    "criteria": {
+      "unlock": "2025-06-01 01:21:10 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/twisted_ghasta": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2025-06-01 01:21:08 +0000"
     },
     "done": true
   },
@@ -16989,6 +17037,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:21:08 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/strider_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:21 +0000"
@@ -16998,6 +17064,12 @@
   "netherexp:recipes/dye/light_blue_dye_from_soul_torchflower": {
     "criteria": {
       "has_item": "2025-06-01 01:04:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-01 01:21:08 +0000"
     },
     "done": true
   },
