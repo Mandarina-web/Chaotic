@@ -19294,6 +19294,12 @@
     },
     "done": true
   },
+  "etched:recipes/misc/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-06-01 23:01:19 +0000"
+    },
+    "done": true
+  },
   "etched:recipes/decorations/album_jukebox": {
     "criteria": {
       "has_jukebox": "2025-06-01 22:44:39 +0000"
