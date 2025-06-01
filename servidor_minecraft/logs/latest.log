@@ -1220,3 +1220,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 09:11:33.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6044ms or 120 ticks behind
 [01Jun2025 09:11:53.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5573ms or 111 ticks behind
 [01Jun2025 09:12:14.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6129ms or 122 ticks behind
+[01Jun2025 09:12:37.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8344ms or 166 ticks behind
+[01Jun2025 09:12:56.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[01Jun2025 09:12:56.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[01Jun2025 09:12:56.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[01Jun2025 09:12:58.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5725ms or 114 ticks behind
+[01Jun2025 09:12:59.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 09:13:00.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 09:13:00.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[01Jun2025 09:13:19.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5691ms or 113 ticks behind
+[01Jun2025 09:13:39.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5600ms or 112 ticks behind
+[01Jun2025 09:14:00.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5397ms or 107 ticks behind
+[01Jun2025 09:14:20.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5447ms or 108 ticks behind
+[01Jun2025 09:14:41.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5535ms or 110 ticks behind
+[01Jun2025 09:15:01.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5267ms or 105 ticks behind
+[01Jun2025 09:15:22.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5761ms or 115 ticks behind
+[01Jun2025 09:15:38.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[01Jun2025 09:15:38.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[01Jun2025 09:15:38.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[01Jun2025 09:15:40.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 09:15:41.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[01Jun2025 09:15:41.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[01Jun2025 09:15:42.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
+[01Jun2025 09:16:03.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5950ms or 119 ticks behind
+[01Jun2025 09:16:24.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5694ms or 113 ticks behind
+[01Jun2025 09:16:44.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5389ms or 107 ticks behind
+[01Jun2025 09:17:04.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5277ms or 105 ticks behind
+[01Jun2025 09:17:25.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5418ms or 108 ticks behind
+[01Jun2025 09:17:46.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6300ms or 126 ticks behind
+[01Jun2025 09:17:55.469] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/zona.nbt
+[01Jun2025 09:18:06.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4733ms or 94 ticks behind
+[01Jun2025 09:18:27.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5861ms or 117 ticks behind
+[01Jun2025 09:18:48.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6563ms or 131 ticks behind
+[01Jun2025 09:19:08.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
+[01Jun2025 09:19:29.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6130ms or 122 ticks behind
+[01Jun2025 09:19:47.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[01Jun2025 09:20:10.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[01Jun2025 09:20:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[01Jun2025 09:20:10.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
