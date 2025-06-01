@@ -1063,3 +1063,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 07:34:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [01Jun2025 07:43:08.823] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/zona.nbt
 [01Jun2025 07:47:13.829] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/zona.nbt
+[01Jun2025 07:51:36.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 07:53:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
+[01Jun2025 07:53:40.750] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/zona.nbt
+[01Jun2025 07:58:08.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[01Jun2025 07:58:31.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
