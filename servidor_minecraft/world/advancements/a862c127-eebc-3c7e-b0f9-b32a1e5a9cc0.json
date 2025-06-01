@@ -18482,15 +18482,57 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/smooth_sandstone_from_baking": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-01 01:28:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-01 01:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
     },
     "done": true
   },
@@ -18512,9 +18554,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
     },
     "done": true
   },
@@ -18566,6 +18620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/stonecutting/nether_bricks_cabinet": {
     "criteria": {
       "has_nether_bricks": "2025-06-01 01:28:23 +0000"
@@ -18578,9 +18638,21 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/combat/kunai": {
     "criteria": {
       "has_silver_nugget": "2025-06-01 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
     },
     "done": true
   },
@@ -18644,6 +18716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_item": "2025-06-01 01:28:23 +0000"
@@ -18665,6 +18743,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-01 01:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:01 +0000"
     },
     "done": true
   },

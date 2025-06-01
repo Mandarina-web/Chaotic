@@ -10645,15 +10645,33 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/smooth_sandstone_from_baking": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/gravel_button": {
     "criteria": {
       "has_thing": "2025-06-01 01:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
     },
     "done": true
   },
@@ -10699,6 +10717,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/oak_plank_secret_button": {
     "criteria": {
       "has_thing": "2025-06-01 01:03:34 +0000"
@@ -10714,6 +10744,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
     },
     "done": true
   },
@@ -10735,6 +10771,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
@@ -10747,6 +10789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-01 01:03:34 +0000"
@@ -10756,6 +10804,12 @@
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
     },
     "done": true
   },
@@ -10861,6 +10915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/calcite_large_button": {
     "criteria": {
       "has_thing": "2025-06-01 01:47:02 +0000"
@@ -10870,6 +10930,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
     },
     "done": true
   },
@@ -10888,6 +10954,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
     },
     "done": true
   },
@@ -10981,6 +11053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-01 01:47:02 +0000"
@@ -11032,6 +11110,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-06-01 01:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-01 02:02:23 +0000"
     },
     "done": true
   },

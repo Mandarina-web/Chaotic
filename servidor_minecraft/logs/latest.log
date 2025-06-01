@@ -1341,3 +1341,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 01:51:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Gave 2 [Ferrous Nectar] to UnGatoCalico]
 [01Jun2025 01:52:35.584] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 0 ms
 [01Jun2025 01:56:28.721] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 0 ms
+[01Jun2025 02:06:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elMoillinoYT drowned
+[01Jun2025 02:06:44.622] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smoking in 99.53 μs. 104/104 recipes are parallelized.
+[01Jun2025 02:06:46.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of elMoillinoYT accepted server config.
+[01Jun2025 02:06:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Teleported elMoillinoYT to UnGatoCalico]
