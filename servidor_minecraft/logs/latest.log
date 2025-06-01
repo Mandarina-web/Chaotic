@@ -1221,3 +1221,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 03:04:17.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [01Jun2025 03:04:17.241] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1640, y=10, z=1422}
 [01Jun2025 03:05:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has completed the challenge [Deception!]
+[01Jun2025 03:06:03.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd has completed the challenge [Home on The Ranch]
+[01Jun2025 03:06:08.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> q
+[01Jun2025 03:06:12.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01Jun2025 03:07:34.326] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:08:11.710] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1527, y=-17, z=1962}
+[01Jun2025 03:08:11.710] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1527, y=-17, z=1964}
+[01Jun2025 03:09:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> hufffffffffff
+[01Jun2025 03:10:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> quien vende esmeraldas?
+[01Jun2025 03:10:47.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> yo
+[01Jun2025 03:10:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> te vendo 43
+[01Jun2025 03:11:12.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> a 4 diamantes?
+[01Jun2025 03:11:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> mmmm
+[01Jun2025 03:11:19.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> tienes armadura?
+[01Jun2025 03:11:23.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> no
+[01Jun2025 03:11:36.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> te doy 40 esmeraldas por los 4 diamantes
+[01Jun2025 03:11:41.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> ok
+[01Jun2025 03:11:52.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> y que pides por los otros 3
+[01Jun2025 03:11:58.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> 3 diamantes
+[01Jun2025 03:12:20.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnGatoCalico> te doy una cerveza
+[01Jun2025 03:12:25.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ofuj_> mesirve
+[01Jun2025 03:13:28.361] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:13:43.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico has made the advancement [Pic-A-Nic Basket?]
+[01Jun2025 03:13:50.324] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 236.1 μs. 254/254 recipes are parallelized.
+[01Jun2025 03:15:23.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeanpaul_xd lost connection: Disconnected
+[01Jun2025 03:15:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeanpaul_xd left the game
+[01Jun2025 03:15:23.572] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jeanpaul_xd
+[01Jun2025 03:16:07.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ofuj_ lost connection: Disconnected
+[01Jun2025 03:16:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ left the game
+[01Jun2025 03:16:07.110] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ofuj_
+[01Jun2025 03:16:07.181] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:16:15.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ofuj_[/10.147.19.181:60777] logged in with entity id 41270 at (-817.1366162882227, 156.0, 990.7340338774347)
+[01Jun2025 03:16:15.784] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ofuj_
+[01Jun2025 03:16:15.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ofuj_ joined the game
+[01Jun2025 03:16:15.849] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ofuj_'
+[01Jun2025 03:16:15.850] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ofuj_'
+[01Jun2025 03:16:15.877] [Server thread/INFO] [Jade/]: Syncing config to ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5)
+[01Jun2025 03:16:16.167] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ofuj_ (18)
+[01Jun2025 03:16:16.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ofuj_
+[01Jun2025 03:16:17.918] [Server thread/INFO] [do_a_barrel_roll/]: Client of ofuj_ accepted server config.
+[01Jun2025 03:16:17.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[01Jun2025 03:16:18.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2af8bd9-7604-3cfc-bfd9-428c23b16cb5
+[01Jun2025 03:16:18.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ofuj_ (d2af8bd9-7604-3cfc-bfd9-428c23b16cb5) successfully connected to voice chat
