@@ -16977,6 +16977,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-06-01 01:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-06-01 01:01:21 +0000"
@@ -16986,6 +16992,12 @@
   "mynethersdelight:recipes/cooking/strider_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-01 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/dye/light_blue_dye_from_soul_torchflower": {
+    "criteria": {
+      "has_item": "2025-06-01 01:04:09 +0000"
     },
     "done": true
   },
