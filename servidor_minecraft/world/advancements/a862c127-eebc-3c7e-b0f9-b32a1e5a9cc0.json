@@ -18871,5 +18871,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-06-01 07:47:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-06-01 07:47:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

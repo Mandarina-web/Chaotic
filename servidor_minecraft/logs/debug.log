@@ -14622,3 +14622,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 07:34:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
 [01Jun2025 07:37:37.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
 [01Jun2025 07:37:37.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 07:42:37.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[01Jun2025 07:42:37.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[01Jun2025 07:43:08.823] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/zona.nbt
+[01Jun2025 07:44:28.648] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.api.contraption.BlockMovementChecks
+[01Jun2025 07:47:13.829] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: UnGatoCalico/zona.nbt
+[01Jun2025 07:47:37.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[01Jun2025 07:47:37.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
