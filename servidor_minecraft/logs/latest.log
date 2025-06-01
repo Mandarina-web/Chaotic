@@ -1059,3 +1059,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [01Jun2025 07:26:42.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
 [01Jun2025 07:26:46.259] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cooking in 651.8 μs. 0/143 recipes are parallelized.
 [01Jun2025 07:26:58.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[01Jun2025 07:32:38.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-431, y=68, z=-581} BlockPos{x=-437, y=64, z=-579}
+[01Jun2025 07:34:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Creative Mode]
