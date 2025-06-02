@@ -19672,6 +19672,342 @@
     },
     "done": true
   },
+  "webdisplays:upgrade": {
+    "criteria": {
+      "upgrade_screen": "2025-06-02 00:33:46 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_cherry": {
+    "criteria": {
+      "has_item": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_fence_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_slab_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_cherry": {
+    "criteria": {
+      "has_item": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_boards_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_large_button": {
+    "criteria": {
+      "has_thing": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_ladder_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cherry_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_stairs_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_button_from_cherry_planks_sawing": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "forge:dyes/brown": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_brown_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/brown_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/brown_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_brown_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_toilet": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-02 00:53:54 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-06-02 00:57:41 +0000"
@@ -19743,342 +20079,6 @@
       "log_spam_fixer": "2025-06-02 00:57:41 +0000"
     },
     "done": false
-  },
-  "snowyspirit:recipes/decorations/sled_cherry": {
-    "criteria": {
-      "has_item": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "forge:dyes/brown": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/cherry_fence_from_cherry_planks_sawing": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brown_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_slab_from_cherry_planks_sawing": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_cherry": {
-    "criteria": {
-      "has_item": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_cherry": {
-    "criteria": {
-      "has_item": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_boards_from_cherry_planks_sawing": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "webdisplays:upgrade": {
-    "criteria": {
-      "upgrade_screen": "2025-06-02 00:33:46 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cherry_large_button": {
-    "criteria": {
-      "has_thing": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/cherry_ladder_from_cherry_planks_sawing": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/dye_brown_bedroll": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/brown_safe_emergency_button": {
-    "criteria": {
-      "has_thing": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cherry_plank_secret_button": {
-    "criteria": {
-      "has_thing": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_stairs_from_cherry_planks_sawing": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/brown_emergency_button": {
-    "criteria": {
-      "has_thing": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
-    "criteria": {
-      "has_brown_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cherry_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_toilet": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/brown_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-06-02 00:53:54 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/cherry_button_from_cherry_planks_sawing": {
-    "criteria": {
-      "has_cherry_planks": "2025-06-02 00:51:45 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
