@@ -17174,3 +17174,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Jun2025 00:48:18.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
 [02Jun2025 00:48:18.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
 [02Jun2025 00:48:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[02Jun2025 00:49:11.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02Jun2025 00:50:52.698] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jun2025 00:50:52.699] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.elysium_api.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jun2025 00:51:44.695] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.248 ms. 6059/6213 recipes are parallelized.
+[02Jun2025 00:51:44.702] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Mixing KegStackedContentsRecipePickerMixin from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
+[02Jun2025 00:51:44.703] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$10(I)[Lnet/minecraft/world/item/crafting/Ingredient; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$10$0 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.704] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$9(Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry;)Lnet/minecraft/world/item/crafting/Ingredient; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$9$1 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.704] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$8(I)[Lnet/minecraft/world/item/ItemStack; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$8$2 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.704] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$7(Lumpaz/brewinandchewin/common/crafting/KegFermentingRecipe;ILnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry;)Z to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$7$3 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$6(Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$6$4 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$5(Lumpaz/brewinandchewin/common/crafting/KegFermentingRecipe;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$5$5 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$4(I)[Lnet/minecraft/world/item/ItemStack; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$4$6 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$3(Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$3$7 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$2(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$2$8 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$1(I)[Lnet/minecraft/world/item/ItemStack; to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$1$9 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.706] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$0(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md512bf8$lambda$brewinandchewin$addExtraFluidContextToPick$0$a in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[02Jun2025 00:51:44.718] [FastSuite Recipe Lookup Thread: 2/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
+[02Jun2025 00:52:00.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Jun2025 00:52:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set the weather to clear]
+[02Jun2025 00:53:24.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[02Jun2025 00:53:24.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy
+[02Jun2025 00:53:27.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Jun2025 00:55:02.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Jun2025 00:55:26.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Jun2025 00:55:45.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3796ms or 75 ticks behind
+[02Jun2025 00:56:02.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[02Jun2025 00:56:31.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to UnGatoCalico
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with UnGatoCalico
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with UnGatoCalico
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 to disconnected: {disabled=false, disconnected=true, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[02Jun2025 00:56:31.814] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of UnGatoCalico: {disabled=false, disconnected=true, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[02Jun2025 00:56:31.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[02Jun2025 00:56:32.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[02Jun2025 00:56:32.895] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of UnGatoCalico to connected: {disabled=false, disconnected=false, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[02Jun2025 00:56:32.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[02Jun2025 00:56:33.042] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of UnGatoCalico: {disabled=false, disconnected=false, uuid=a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0, name=UnGatoCalico, group=null}
+[02Jun2025 00:57:06.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02Jun2025 00:57:23.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[02Jun2025 00:58:22.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[02Jun2025 00:58:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[02Jun2025 00:58:22.656] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of UnGatoCalico
+[02Jun2025 00:58:22.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[02Jun2025 00:58:22.657] [MiniServServer/WARN] [net.montoyo.wd.utilities.Log/]: Could not read data from client
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:176) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
+	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Jun2025 00:58:22.965] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-677}
+[02Jun2025 00:58:22.966] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-381, y=95, z=-676}
+[02Jun2025 00:58:39.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Entropy
+[02Jun2025 00:58:39.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Entropy

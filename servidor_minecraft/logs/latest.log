@@ -3473,3 +3473,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Jun2025 00:35:36.345] [Server thread/WARN] [net.montoyo.wd.utilities.Log/]: Player literal{UnGatoCalico} (UUID a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) created an Ownership Thief item for screen at -380 98 -663, side WEST!
 [02Jun2025 00:39:07.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
 [02Jun2025 00:48:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set own game mode to Survival Mode]
+[02Jun2025 00:49:11.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02Jun2025 00:51:44.695] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.248 ms. 6059/6213 recipes are parallelized.
+[02Jun2025 00:52:00.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Jun2025 00:52:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UnGatoCalico: Set the weather to clear]
+[02Jun2025 00:53:27.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Jun2025 00:55:02.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Jun2025 00:55:26.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Jun2025 00:55:45.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3796ms or 75 ticks behind
+[02Jun2025 00:56:02.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[02Jun2025 00:56:31.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0 timed out
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player UnGatoCalico
+[02Jun2025 00:56:31.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to UnGatoCalico
+[02Jun2025 00:56:31.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[02Jun2025 00:56:32.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0
+[02Jun2025 00:56:32.895] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnGatoCalico (a862c127-eebc-3c7e-b0f9-b32a1e5a9cc0) successfully connected to voice chat
+[02Jun2025 00:57:06.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02Jun2025 00:57:23.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[02Jun2025 00:58:22.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnGatoCalico lost connection: Disconnected
+[02Jun2025 00:58:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnGatoCalico left the game
+[02Jun2025 00:58:22.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnGatoCalico
+[02Jun2025 00:58:22.657] [MiniServServer/WARN] [net.montoyo.wd.utilities.Log/]: Could not read data from client
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:176) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
+	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
