@@ -17242,6 +17242,42 @@
     },
     "done": true
   },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2025-06-02 01:26:32 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-02 01:26:32 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2025-06-02 01:26:32 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-06-02 01:26:32 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/etching_table": {
+    "criteria": {
+      "has_iron": "2025-06-02 01:30:43 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/radio": {
+    "criteria": {
+      "has_iron": "2025-06-02 01:30:43 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-06-02 01:50:20 +0000"
@@ -17314,42 +17350,6 @@
       "log_spam_fixer": "2025-06-02 01:50:20 +0000"
     },
     "done": false
-  },
-  "etched:recipes/decorations/etching_table": {
-    "criteria": {
-      "has_iron": "2025-06-02 01:30:43 +0000"
-    },
-    "done": true
-  },
-  "etched:recipes/decorations/album_jukebox": {
-    "criteria": {
-      "has_jukebox": "2025-06-02 01:26:32 +0000"
-    },
-    "done": true
-  },
-  "etched:recipes/decorations/radio": {
-    "criteria": {
-      "has_iron": "2025-06-02 01:30:43 +0000"
-    },
-    "done": true
-  },
-  "etched:recipes/transportation/jukebox_minecart": {
-    "criteria": {
-      "has_minecart": "2025-06-02 01:26:32 +0000"
-    },
-    "done": true
-  },
-  "etched:recipes/misc/music_label": {
-    "criteria": {
-      "has_blank_music_disc": "2025-06-02 01:26:32 +0000"
-    },
-    "done": true
-  },
-  "etched:recipes/misc/boombox": {
-    "criteria": {
-      "has_jukebox": "2025-06-02 01:26:32 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
