@@ -10540,6 +10540,346 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/crimson_fence_gate_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_ladder_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/crimson_trapdoor_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_planks_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/crimson_door_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/crimson_pressure_plate_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_sign_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_fence_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/crimson_button_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_stems_sawing": {
+    "criteria": {
+      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_ladder_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_fence_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_item": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/crimson_large_button": {
+    "criteria": {
+      "has_thing": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/crimson_button_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/crimson_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-06-01 03:29:55 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/brew_drink": {
+    "criteria": {
+      "has_drink": "2025-06-01 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/strongroot_ale_from_beer": {
+    "criteria": {
+      "has_beer": "2025-06-01 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-06-01 03:40:19 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crafting/arrow_from_arrowhead": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crafting/arrow_from_piranha_tooth": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-06-01 03:40:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-06-01 03:41:45 +0000",
+      "trickor_treat_2": "2025-06-01 03:41:45 +0000",
+      "trickor_treat_3": "2025-06-01 03:41:45 +0000",
+      "trickor_treat_4": "2025-06-01 03:41:45 +0000",
+      "trickor_treat_5": "2025-06-01 03:41:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-01 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-01 03:48:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-06-01 04:44:00 +0000"
@@ -10596,9 +10936,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-02 02:27:45 +0000",
       "log_spam_fixer": "2025-06-01 04:44:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
@@ -10612,343 +10953,39 @@
     },
     "done": false
   },
-  "woodworks:recipes/redstone/crimson_fence_gate_from_crimson_stems_sawing": {
+  "etched:recipes/decorations/etching_table": {
     "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+      "has_iron": "2025-06-02 02:18:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
+  "etched:recipes/decorations/album_jukebox": {
     "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
+      "has_jukebox": "2025-06-02 02:18:46 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_crimson": {
+  "etched:recipes/decorations/radio": {
     "criteria": {
-      "has_item": "2025-06-01 03:29:55 +0000"
+      "has_iron": "2025-06-02 02:18:46 +0000"
     },
     "done": true
   },
-  "brewinandchewin:main/brew_drink": {
+  "etched:recipes/transportation/jukebox_minecart": {
     "criteria": {
-      "has_drink": "2025-06-01 03:33:53 +0000"
+      "has_minecart": "2025-06-02 02:18:46 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/decorations/crimson_ladder_from_crimson_planks_sawing": {
+  "etched:recipes/misc/music_label": {
     "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
+      "has_blank_music_disc": "2025-06-02 02:18:46 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+  "etched:recipes/misc/boombox": {
     "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-01 03:48:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/crimson_ladder_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-06-01 03:40:19 +0000"
-    },
-    "done": false
-  },
-  "woodworks:recipes/decorations/crimson_fence_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/crimson_trapdoor_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_planks_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_0": "2025-06-01 03:41:45 +0000",
-      "trickor_treat_2": "2025-06-01 03:41:45 +0000",
-      "trickor_treat_3": "2025-06-01 03:41:45 +0000",
-      "trickor_treat_4": "2025-06-01 03:41:45 +0000",
-      "trickor_treat_5": "2025-06-01 03:41:45 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crafting/arrow_from_arrowhead": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-01 03:48:15 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/crimson_door_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/strongroot_ale_from_beer": {
-    "criteria": {
-      "has_beer": "2025-06-01 03:33:53 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/silent_quiver": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_crimson": {
-    "criteria": {
-      "has_item": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/crimson_pressure_plate_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crafting/arrow_from_piranha_tooth": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/crimson_sign_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/crimson_fence_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/crimson_large_button": {
-    "criteria": {
-      "has_thing": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/crimson_button_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/crimson_button_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/traveler_necklace": {
-    "criteria": {
-      "has_feather": "2025-06-01 03:40:26 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/crimson_plank_secret_button": {
-    "criteria": {
-      "has_thing": "2025-06-01 03:29:55 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_stems_sawing": {
-    "criteria": {
-      "has_crimson_stems": "2025-06-01 03:29:46 +0000"
+      "has_jukebox": "2025-06-02 02:18:46 +0000"
     },
     "done": true
   },
