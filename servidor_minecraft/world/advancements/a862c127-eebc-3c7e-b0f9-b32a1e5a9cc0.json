@@ -20064,9 +20064,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2025-06-02 01:34:57 +0000",
       "log_spam_fixer": "2025-06-02 00:57:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
