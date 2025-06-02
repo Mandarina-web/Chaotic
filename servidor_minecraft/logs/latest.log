@@ -3500,3 +3500,29 @@ java.net.SocketException: Connection reset
 	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:176) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
 	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Jun2025 01:01:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jun2025 01:01:32.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jun2025 01:01:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jun2025 01:01:32.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:overworld
+[02Jun2025 01:01:32.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_end
+[02Jun2025 01:01:32.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Entropy]'/minecraft:the_nether
+[02Jun2025 01:01:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jun2025 01:01:32.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jun2025 01:01:32.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jun2025 01:01:32.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jun2025 01:01:32.758] [MiniServServer/WARN] [net.montoyo.wd.utilities.Log/]: Could not accept client
+java.nio.channels.ClosedChannelException: null
+	at sun.nio.ch.ServerSocketChannelImpl.ensureOpen(ServerSocketChannelImpl.java:177) ~[?:?]
+	at sun.nio.ch.ServerSocketChannelImpl.begin(ServerSocketChannelImpl.java:352) ~[?:?]
+	at sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:390) ~[?:?]
+	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:153) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
+	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.2-1.20.1.jar%23441!/:2.0.2-1.20.1]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Jun2025 01:01:32.766] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Miniserv server stopped
+[02Jun2025 01:01:32.808] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Jun2025 01:01:32.813] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Jun2025 01:01:32.815] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[02Jun2025 01:01:32.819] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[02Jun2025 01:01:32.819] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Jun2025 01:01:32.819] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Jun2025 01:01:32.855] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
