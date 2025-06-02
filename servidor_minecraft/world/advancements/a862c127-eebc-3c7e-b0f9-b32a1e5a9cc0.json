@@ -19672,5 +19672,11 @@
     },
     "done": true
   },
+  "webdisplays:upgrade": {
+    "criteria": {
+      "upgrade_screen": "2025-06-02 00:33:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
